@@ -5,7 +5,7 @@ Welcome to the Call of Duty Zombies Discord Staff Documentation
 possibly all be kept up with, without some help from this documentation
 
 If you are stopping by and are not part of CODZ Staff, this doc is irrelevant to you,
-but you can still join us on `Discord<https://world.openfoodfacts.org/>`_
+but you can still join us on `Discord <discord.gg/codzombies>`
 
 
 Check back for more updates!
@@ -20,4 +20,4 @@ Contents
 .. toctree::
 
    moderation
-   bots
+   warden_system
