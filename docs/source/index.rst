@@ -1,13 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to the Call of Duty Zombies Discord Staff Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**The Call of Duty Zombies Discord** has many tools and systems in place that cannot
+possibly all be kept up with, without some help from this documentation
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+If you are stopping by and are not part of CODZ Staff, this doc is irrelevant to you,
+but you can still join us on `Discord<https://world.openfoodfacts.org/>`_
+
+
+Check back for more updates!
 
 .. note::
 
@@ -18,5 +19,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   moderation
+   bots
