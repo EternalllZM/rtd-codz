@@ -1,5 +1,5 @@
 =====
-Rules
+Global Server Rules
 =====
 
 .. _installation:
@@ -9,9 +9,8 @@ Rule 1
 .. note::
     :ref:`No Advertising, Self Promotion, or Begging`
 
-.. code-block:: console
-
-   Simply, we ask that you respect the Discord server by not advertising other communities, projects, etc. without the consent of the Staff team and others or selling anything on our server.
+.. tip::
+    :ref:`Simply, we ask that you respect the Discord server by not advertising other communities, projects, etc. without the consent of the Staff team and others or selling anything on our server.`
 
 - **Begging of any form is not allowed.**
 
@@ -25,12 +24,12 @@ This is not a marketplace. You may not sell your account, mods, or anything invo
 
 - **No community or clan recruitments.**
 
-Though you may not specifically link to an external community, we do not allow recruiting to other communities or clans. A clan system is not in Zombies natively, it does not belong here.
+We do not allow recruiting to other communities or clans. A clan system is not in Zombies natively, it does not belong here.
 
 
 - **No external Discord invites.**
 
-You are not allowed to post any Discord invites that are not related to our server. You should never have a reason to post any Discord invites as our LFG system performs this for you.
+You are not allowed to post any Discord invites that are not related to our server. You should never have a reason to post any Discord invites as our LFG system does this for you.
 
 
 - **DM Modmail about advertising.**
@@ -47,9 +46,8 @@ Rule 2
 .. note::
     :ref:`No NSFW or Disruptive Content`
 
-.. code-block:: console
-
-   Please do not post pornographic or suggestive content. Furthermore, do not intentionally post disruptive content that is likely to cause drama or arguments.
+.. tip::
+    :ref:`Please do not post pornographic or suggestive content. Furthermore, do not intentionally post disruptive content that is likely to cause drama or arguments.`
 
 - **Includes profile, username, text, and voice chats.**
 
@@ -70,9 +68,9 @@ Rule 3
 .. note::
     :ref:`No Disrespect or Drama`
 
-.. code-block:: console
-
-   Please be respectful to others on the server and do not engage in drama or arguments in public channels. Furthermore, please report disruptions by means of drama or disrespect to our Modmail system.
+.. tip::
+    :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels. 
+    Furthermore, please report disruptions of drama or disrespect to our Modmail system.`
 
 - **Insulting others is not allowed.**
 
@@ -81,21 +79,20 @@ Please do not insult others by name calling, reply pinging when users ask you to
 
 - **Keep arguments out of the server.**
 
-People who want to find an SOE easter egg game do not care about your Kino game drama in the channel. Take it somewhere else outside of the server.
+Please do not interrupt the experience of others on the server by arguing in public channels or causing drama. Both users (no matter who started) will be punished should this occur.
 
 
 - **DM Modmail to report users.**
 
-The smartest thing to do is to simply direct message Modmail that you are being insulted/harrassed. It will save all of us time resolving the issue.
+The smartest thing to do is to simply direct message Modmail that you are being insulted/harrassed. It will save all of us time in resolving the issue.
 
 Rule 4
 ------------
 .. note::
     :ref:`No Spamming or Off-Topic Content`
 
-.. code-block:: console
-
-   Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if applicable) channel-specific rules for each.
+.. tip::
+    :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if applicable) channel-specific rules for each.`
 
 - **Keep message content relevant to channel.**
 
@@ -125,9 +122,8 @@ Rule 5
     :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the copyright infringement act applies to our server. By breaching the piracy-related rules below, you are 
     violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
 
-.. code-block:: console
-
-   Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.
+.. tip::
+    :ref:`Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
 - **This includes discussion, advocation, or hinting.**
 
@@ -151,7 +147,7 @@ Please do not use any clients besides these. Includes RektT5, IW6X, and others.
 - **Gamesharing is not allowed**
 
 Asking others to gameshare_ with you is not only against Discord Terms of Service, but also against the Terms of Service on every platform that acts as a marketplace and client for games 
-(Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you are too broke (Yes, broke. Go mow a lawn.) to afford the game. Proper gamesharing is done as 
+(Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you are too broke (*Yes, broke. Go mow a lawn.*) to afford the game. Proper gamesharing is done as 
 intended which is through your **friends and family only**. We do not approve of Activision price gouging their older games. However, that is not a reason to blatantly ask that someone violate TOS for you.
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
@@ -161,9 +157,8 @@ Rule 6
 .. note::
     :ref:`No Voice Communication Abuse`
 
-.. code-block:: console
-
-   We simply request that you act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.
+.. tip::
+    :ref:`We simply request that you act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.`
 
 - **Do not be annoying, loud, or use soundboards.**
 
@@ -184,9 +179,8 @@ Rule 7
 .. note::
     :ref:`No Staff Disrespect or Punishment Evasion`
 
-.. code-block:: console
-
-   Staff are simply doing their job when interacting with Members. We do not (contrary to popular belief) enjoy punishing users. If you are simply apologetic and understanding about a small infraction, we will usually let it go.
+.. tip::
+    :ref:`Staff are simply doing their job when interacting with Members. Please do not impede on their ability or insult them during this process.
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
@@ -221,9 +215,8 @@ Rule 8
 .. note::
     :ref:`No Cheating, Glitching, or Exploiting`
 
-.. code-block:: console
-
-   Please respect the games and those that play it. We do not appreciate cheating of any form. Please play legitimate and if you cannot, find another community.
+.. tip::
+    :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form. Please play legitimate and if you cannot, find another community.`
 
 - **Includes asking for glitches, or discussion of any exploiting.**
 
@@ -244,9 +237,8 @@ Rule 9
 .. note::
     :ref:`You must Follow Discord TOS and Guidelines`
 
-.. code-block:: console
-
-   The TOS can be overwhelming. However, it is your responsibility to have read it when you signed up for the platform and to keep updated with it.
+.. tip::
+    :ref:`The TOS can be overwhelming. However, it is your responsibility to have read it when you signed up for the platform and to keep updated with it.`
 
 - **No underage users (13+ only).**
 
@@ -256,3 +248,45 @@ You must be 13 years of age or older to use the server. No exceptions (obviously
 - **You may be reported to Trust and Safety depending on severity.**
 
 As mentioned in the last bullet of Rule 8, we may report your account depending on severity of violation.
+
+=====
+Channel-specific Rules
+=====
+
+Any LFG channel
+------------
+.. note::
+    :ref:`Please use these for looking for groups only.`
+
+- **Please keep discussion to a bare minimum.**
+
+Discussion is held within #zombies-discussion. Please do not hold in-depth discussions outside of things like what map you are going to play in LFG channels.
+
+
+- **Do not LFG for any other games besides Call of Duty Zombies.**
+
+Roblox zombies and Left 4 Dead is not Call of Duty Zombies, please do not LFG for this or any other variants.
+
+#zombies-discussion
+------------
+.. note::
+    :ref:`This channel is for discussing Call of Duty Zombies only.`
+
+- **Do not look for groups or games within this channel.**
+
+Please keep all LFGing to the \"Looking for Group\" category.
+
+
+- **Do not concern troll or bait arguments.**
+
+Please do not create artificial controversy by means of concern trolling.
+
+
+- **Do not derail conversations or go off-topic.**
+
+Similar to Rule 4, please respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
+
+
+- **Do not abuse the topic or reroll command or use it when conversation is occuring.**
+
+The !topic command is available when discussion is dissipating. Please be respectful of the discussions currently happening.
