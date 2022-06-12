@@ -9,6 +9,11 @@ Bot Policy
 .. important::
     :ref:`This is an overview of the Call of Duty Zombies bot privacy policy.`
 
+.. note::
+    :ref:`If we change or update this Privacy Policy, We will post changes and updates on the page so that you will always be aware of what information we collect, use, and disclose. 
+    We encourage frequent review this Policy from time to time so you will know if the Privacy Policy has been changed or updated. 
+    If you have any questions about the Policy, please contact the Call of Duty Zombies Administrators via Moderator Mail.`
+
 You understand that in order to perform competent moderation and assist with other functions of the Discord, the following information may be stored on our servers:
 
 - Message content, reactions and total messages sent for leveling, moderation, and message logging.
@@ -20,10 +25,6 @@ You understand that in order to perform competent moderation and assist with oth
 
 This data is used and stored securely only for logging and moderation purposes when requested specifically by Call of Duty Zombies Staff and is not publicly available for viewing.
 
-.. note::
-    :ref:`If we change or update this Privacy Policy, We will post changes and updates on the page so that you will always be aware of what information we collect, use, and disclose. 
-    We encourage frequent review this Policy from time to time so you will know if the Privacy Policy has been changed or updated. 
-    If you have any questions about the Policy, please contact the Call of Duty Zombies Administration via Moderator Mail.`
 
 The bots are instances of `Red, an open source Discord bot`_ created by TwentySix_ and `improved by many`_.
 

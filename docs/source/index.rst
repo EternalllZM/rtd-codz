@@ -10,4 +10,4 @@ Contents
 
    rules
    server information
-   privacy policy
+   privacy_policy
