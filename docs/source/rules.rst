@@ -18,8 +18,8 @@ No, you did not find a loophole. The Staff team will punish at discretion line-t
 
 If you are not in a moderator position, report the content to Modmail instead of attempting to enforce the rules on your own.
 
-.. tip::
-    :ref:`You cannot have your cake and eat it. Apply for Staff if you wish to enforce rules and be part of our team.`
+.. note::
+    :ref:`Apply for Staff if you wish to enforce rules and be part of our team.`
 
 - **Bans are issued after many warnings or a severe rule break.**
 
@@ -225,6 +225,11 @@ Please do not join with an alt onto the server or use an alternate account to ev
 This does not make us want to hear your case/appeal and instead puts all Staff on high alert to ban accounts associated with you in any way.
 
 
+- **Do not imitate Staff in any way**
+
+Do not imitate Staff by means of trying to backseat moderate, changing usernames to match Staff, or claim that you are a Moderator.
+
+
 - **Do not complain about punishments in public channels.**
 
 Public channels are not the place for complaining about moderations you received. By doing this, you will only receive a harsher punishment against your account.
@@ -266,23 +271,18 @@ Rule 9 - You must Follow Discord ToS and Guidelines
 
 You must be 13 years of age or older to use the server. No exceptions (obviously).
 
-
-- **You may be reported to Trust and Safety depending on severity.**
-
-As mentioned in the last bullet of Rule 8, we may report your account depending on severity of violation.
-
 =====
 Channel-specific Rules
 =====
 
-Any LFG channel
+#lfg-<any channel>
 ------------
 .. important::
-    :ref:`Please use these for looking for groups only.`
+    :ref:`Please use these to look for groups only.`
 
 - **Please keep discussion to a bare minimum.**
 
-Discussion is held within #zombies-discussion. Please do not hold in-depth discussions outside of things like what map you are going to play in LFG channels.
+Discussion is held within **#zombies-discussion**. Please do not hold in-depth discussions outside of things like what map you are going to play in LFG channels.
 
 
 - **Do not LFG for any other games besides Call of Duty Zombies.**
