@@ -149,14 +149,14 @@ Do not discuss, advocate that someone perform, or even jokingly hint that someon
 
 - **Plutonium is only allowed if you own the game legally.**
 
-The Plutonium website *distributes* (links to) illegal copies of the Call of Duty games by which their launcher serves private servers and other enhancements. 
-You may not use that download or any other downloaded copies of the game other than Steam or a CD copy to interact and use the Plutonium launcher. 
+The Plutonium website distributes (links to) illegal copies of the Call of Duty Zombies games and a launcher by which they serve private servers and other enhancements. 
+You may not use that download or any other downloaded copies of the game other than Steam or a CD copy to use the Plutonium launcher. 
 Plutonium itself is not piracy, the act of downloading the game via torrent client is committing piracy. If you do not legally own the game, do not LFG for it.
 
-.. important::
-    :ref:`If you obtained the game for free in any way outside of being legally gifted, you most likely have committed piracy.`
+.. warning::
+    :ref:`If you obtained the game for free in any way outside of being legally gifted, you likely have committed piracy.`
 
-.. tip::
+.. note::
     :ref:`Plutonium when used with a valid purchased Steam copy of the game is legal and may be used.`
 
 
@@ -167,14 +167,16 @@ Please do not use any clients besides these. Includes RektT5, IW6X, and others.
 
 - **Gamesharing is not allowed**
 
-.. important::
-    :ref:`Gamesharing is a feature for friends and family, not random members of a Discord server.`
-
 Asking others to gameshare_ with you is not only against Discord Terms of Service, but also against the Terms of Service on every platform that acts as a marketplace and client for games 
-(Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you are too broke (*Yes, broke. Go mow a lawn.*) to afford the game. Proper gamesharing is done as 
-intended which is through your **friends and family only**. We do not approve of Activision price gouging their older games. However, that is not a reason to blatantly ask that someone violate TOS for you.
+(Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you do not want to purchase the content. 
+Proper gamesharing as intended is done with your **friends and family only**. We do not approve of Activision price gouging their older games. 
+However, that is not a reason to ask that someone violate TOS for you.
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
+
+.. note::
+    :ref:`Gamesharing is a feature for friends and family, not random members of a Discord server.`
+
 
 Rule 6 - No Voice Communication Abuse
 ------------
@@ -197,7 +199,7 @@ Please be respectful of the bots and those listening by not repeatedly playing o
 
 Rule 7 - No Staff Disrespect or Punishment Evasion
 ------------
-.. tip::
+.. important::
     :ref:`Staff are simply doing their job when interacting with Members. Please do not impede on their ability or insult them during this process.`
 
 - **Do not disrespect Staff or impede on their moderation duties.**
@@ -254,11 +256,11 @@ Self explanatory.
 
 Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
-.. warning::
-    :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
-
 .. important::
     :ref:`The TOS can be overwhelming. However, it is your responsibility to have read it when you signed up for the platform and to keep updated with it.`
+
+.. warning::
+    :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
 
 - **No underage users (13+ only).**
 
@@ -275,7 +277,7 @@ Channel-specific Rules
 
 Any LFG channel
 ------------
-.. note::
+.. important::
     :ref:`Please use these for looking for groups only.`
 
 - **Please keep discussion to a bare minimum.**
@@ -289,7 +291,7 @@ Roblox zombies and Left 4 Dead is not Call of Duty Zombies, please do not LFG fo
 
 #zombies-discussion
 ------------
-.. note::
+.. important::
     :ref:`This channel is for discussing Call of Duty Zombies only.`
 
 - **Do not look for groups or games within this channel.**
@@ -310,3 +312,40 @@ Similar to Rule 4, please respect the discussions being held and do not try to f
 - **Do not abuse the topic or reroll command or use it when conversation is occuring.**
 
 The !topic command is available when discussion is dissipating. Please be respectful of the discussions currently happening.
+
+#adv-zombies-discussion
+------------
+.. important::
+    :ref:`This channel is for serious discussions about Zombies only.`
+
+- **Please maintain a serious discussion at all times.**
+
+On-topic and tasteful jokes may be used, but keep to a minimum please.
+
+#memes
+------------
+.. important::
+    :ref:`Simply avoid posting anything that violates any of the global rules, or the channel specific rules below.`
+
+- **Do not post anything related to Nazism, Hitler, or any other extremist media. Includes overly political, propaganda, war footage, or similar content.**
+
+We do not support or allow anything that resembles propaganda or posts of extremist politics.
+
+
+- **Do not post content related to gore, death, abuse, violence, etc.**
+
+Do we even have to ask?
+
+
+- **Promotion of illegal behavior such as illicit drugs, piracy, etc.**
+
+Please do not glorify illicit drugs or violations of the law.
+
+#trivia
+------------
+.. important::
+    :ref:`Play trivia against the bot in this channel.`
+
+- **Please do not cheat.**
+
+The slowmode should prevent this, but please only answer true/false or multiple choice questions once per question.
