@@ -4,22 +4,50 @@ Global Server Rules
 
 .. _installation:
 
-Rule 1
+Overview
 ------------
-.. note::
-    :ref:`No Advertising, Self Promotion, or Begging`
-
 .. important::
-    :ref:`Simply, we ask that you respect the Discord server by not advertising other communities, projects, etc. without the consent of the Staff team and others or selling anything on our server.`
+    :ref:`The intent of these rules are to ensure members are LFGing in an ad, drama, and cheat free environment. They assist in fostering a comfortable and healthy community for all who are willing to abide by them.`
+
+- **There are no loopholes in these rules.**
+
+No, you did not find a loophole. The Staff team will punish at discretion line-treading rule violations.
+
+
+- **Do not backseat moderate.**
+
+If you are not in a moderator position, report the content to Modmail instead of attempting to enforce the rules on your own.
+
+.. tip::
+    :ref:`You cannot have your cake and eat it. Apply for Staff if you wish to enforce rules and be part of our team.`
+
+- **Bans are issued after many warnings or a severe rule break.**
+
+There is no set limit before your account is banned for multiple violations. However, the weight of the infraction is heavily considered upon the second and third (and above [if any]) punishment.
+
+
+- **You may not appeal punishments on behalf of another user.**
+
+Those who are punished are given clear instructions for the \"next step\" post-moderation. Please do not appeal on their behalf or your account may be punished as well.
+
+
+- **Contact Staff by DMing Modmail.**
+
+Please do not ping random Staff members when you have an issue. Instead, consider reaching out to Modmail with your concern or report. Thank you.
+
+Rule 1 - No Advertising, Self Promotion, or Begging
+------------
+.. important::
+    :ref:`Simply, we ask that you respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.`
 
 - **Begging of any form is not allowed.**
 
-You are not to beg others to buy you something such as, but not limited to: Games, DLC packs, microtransactions, etc.
+You are not to beg others to buy you, or send you money for something something such as, but not limited to: Games, DLC packs, microtransactions, cash-app, venmo money, etc.
 
 
 - **Do not sell anything here.**
 
-This is not a marketplace. You may not sell your account, mods, or anything involving a monetary transaction.
+This is not a marketplace. You may not sell your account, mods, or do anything involving a monetary transaction.
 
 
 - **No community or clan recruitments.**
@@ -29,45 +57,39 @@ We do not allow recruiting to other communities or clans. A clan system is not i
 
 - **No external Discord invites.**
 
-You are not allowed to post any Discord invites that are not related to our server. You should never have a reason to post any Discord invites as our LFG system does this for you.
+You may not post any Discord invites or invite others to a community that is not affiliated with with our server.
 
 
 - **DM Modmail about advertising.**
 
-Any advertising should be ran through Modmail before posting, this includes self promotional YouTube videos, mod showcases, etc.
+All potential advertising should be processed through Modmail before posting. This includes self promotional YouTube videos, mod showcases, etc.
 
 
 - **Content goes in #zombies-streams.**
 
 Please ensure that your streams and videos go into this channel and do not creep into other channels not related to that specific content.
 
-Rule 2
+Rule 2 - No NSFW or Disruptive Content
 ------------
-.. note::
-    :ref:`No NSFW or Disruptive Content`
-
 .. important::
     :ref:`Please do not post pornographic or suggestive content. Furthermore, do not intentionally post disruptive content that is likely to cause drama or arguments.`
 
 - **Includes profile, username, text, and voice chats.**
 
-Your profile and username are not controllable by the Staff and are global to everyone you interact with. Therefore, if this content is NSFW of any kind, we may remove you from the server. Seriously, don't use NSFW profile pictures...
+If any of the following above contain NSFW content, we may take action without verbal warning. Please do not set your profile picture or username to content that is explicit.
 
 
 - **Suggestive content reviewed at moderator's discretion.**
 
-The Moderator who first sees this content will moderate it at their discretion. This means a varying range of moderations may be placed depending on who sees it.
+The Moderator who first sees explicit or suggestive content will moderate it at their discretion. This means a varying range of moderations may be placed depending on who sees it.
 
 
 - **Trolling discussion channels is not allowed.**
 
 Not only is this disruptive, it is specifically not allowed in the channel descriptions of the discussion channels. Please take it somewhere else not in the server.
 
-Rule 3
+Rule 3 - No Disrespect or Drama
 ------------
-.. note::
-    :ref:`No Disrespect or Drama`
-
 .. important::
     :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels. 
     Furthermore, please report disruptions of drama or disrespect to our Modmail system.`
@@ -86,11 +108,8 @@ Please do not interrupt the experience of others on the server by arguing in pub
 
 The smartest thing to do is to simply direct message Modmail that you are being insulted/harrassed. It will save all of us time in resolving the issue.
 
-Rule 4
+Rule 4 - No Spamming or Off-Topic Content
 ------------
-.. note::
-    :ref:`No Spamming or Off-Topic Content`
-
 .. important::
     :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if applicable) channel-specific rules for each.`
 
@@ -113,17 +132,14 @@ Please do not spam ping users, unnecessarily use caps, or spam a ridiculous amou
 
 A plaintext reference to the first bullet.
 
-Rule 5
+Rule 5 - No Piracy or Gamesharing
 ------------
-.. note::
-    :ref:`No Piracy or Gamesharing`
+.. important::
+    :ref:`Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
 .. warning::
     :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the copyright infringement act applies to our server. By breaching the piracy-related rules below, you are 
     violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
-
-.. important::
-    :ref:`Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
 - **This includes discussion, advocation, or hinting.**
 
@@ -133,13 +149,15 @@ Do not discuss, advocate that someone perform, or even jokingly hint that someon
 
 - **Plutonium is only allowed if you own the game legally.**
 
+The Plutonium website *distributes* (links to) illegal copies of the Call of Duty games by which their launcher serves private servers and other enhancements. 
+You may not use that download or any other downloaded copies of the game other than Steam or a CD copy to interact and use the Plutonium launcher. 
+Plutonium itself is not piracy, the act of downloading the game via torrent client is committing piracy. If you do not legally own the game, do not LFG for it.
+
 .. important::
     :ref:`If you obtained the game for free in any way outside of being legally gifted, you most likely have committed piracy.`
 
-Big one here. The Plutonium website *distributes* (links to) illegal copies of the Call of Duty games by which their launcher serves private servers and other enhancements. 
-Outside of popular belief, you can use the client with a *Steam-purchased* copy of the game and it will work just as well if not better as they are the same game files. 
-*Plutonium itself is not piracy*, the act of *downloading the game via torrent client is committing piracy*. If you are found to have illegally obtained the game or are distrbuting information 
-to assist someone in committing piracy, both parties will be permanently banned.
+.. tip::
+    :ref:`Plutonium when used with a valid purchased Steam copy of the game is legal and may be used.`
 
 
 - **Clients not Steam, Battle.net, or Plutonium are not allowed.**
@@ -158,11 +176,8 @@ intended which is through your **friends and family only**. We do not approve of
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
-Rule 6
+Rule 6 - No Voice Communication Abuse
 ------------
-.. note::
-    :ref:`No Voice Communication Abuse`
-
 .. important::
     :ref:`We simply request that you act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.`
 
@@ -180,13 +195,10 @@ It's a Zombies server, there is no reason to be unreasonably rude or bully other
 
 Please be respectful of the bots and those listening by not repeatedly playing obnoxious content or loud sounds (commonly referred to as earrape.).
 
-Rule 7
+Rule 7 - No Staff Disrespect or Punishment Evasion
 ------------
-.. note::
-    :ref:`No Staff Disrespect or Punishment Evasion`
-
 .. tip::
-    :ref:`Staff are simply doing their job when interacting with Members. Please do not impede on their ability or insult them during this process.
+    :ref:`Staff are simply doing their job when interacting with Members. Please do not impede on their ability or insult them during this process.`
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
@@ -213,14 +225,11 @@ This does not make us want to hear your case/appeal and instead puts all Staff o
 
 - **Do not complain about punishments in public channels.**
 
-Seriously, do not do this. Nobody in #zombies-discussion wants to hear you got warned for LFGing in there. You will not garner any sympathy, rather make the Staff team annoyed and place further punishment. 
+Public channels are not the place for complaining about moderations you received. By doing this, you will only receive a harsher punishment against your account.
 
 
-Rule 8
+Rule 8 - No Cheating, Glitching, or Exploiting
 ------------
-.. note::
-    :ref:`No Cheating, Glitching, or Exploiting`
-
 .. important::
     :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form. Please play legitimate and if you cannot, find another community.`
 
@@ -243,11 +252,8 @@ You will not be able to appeal your ban should you do this. **Do not** offer or 
 
 Self explanatory.
 
-Rule 9
+Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
-.. note::
-    :ref:`You must Follow Discord TOS and Guidelines`
-
 .. warning::
     :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
 
