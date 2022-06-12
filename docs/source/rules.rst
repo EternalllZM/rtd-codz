@@ -272,7 +272,7 @@ Rule 9 - You must Follow Discord ToS and Guidelines
 You must be 13 years of age or older to use the server. No exceptions (obviously).
 
 =====
-Channel-specific Rules
+Channel Rules
 =====
 
 #lfg-<any channel>

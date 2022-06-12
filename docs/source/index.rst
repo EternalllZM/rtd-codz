@@ -1,14 +1,7 @@
-Welcome to the Call of Duty Zombies Discord Documentation
+Call of Duty Zombies Discord Documentation
 ===================================
 
-
-
-
-Check back for more updates!
-
-.. note::
-
-   This project is under active development.
+This page serves as an index for the documentation related to our Discord. Please use the **contents** section below to navigate to a specific topic.
 
 Contents
 --------
@@ -17,3 +10,4 @@ Contents
 
    rules
    server information
+   privacy policy
