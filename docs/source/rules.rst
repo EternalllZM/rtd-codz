@@ -9,7 +9,7 @@ Rule 1
 .. note::
     :ref:`No Advertising, Self Promotion, or Begging`
 
-.. tip::
+.. important::
     :ref:`Simply, we ask that you respect the Discord server by not advertising other communities, projects, etc. without the consent of the Staff team and others or selling anything on our server.`
 
 - **Begging of any form is not allowed.**
@@ -46,7 +46,7 @@ Rule 2
 .. note::
     :ref:`No NSFW or Disruptive Content`
 
-.. tip::
+.. important::
     :ref:`Please do not post pornographic or suggestive content. Furthermore, do not intentionally post disruptive content that is likely to cause drama or arguments.`
 
 - **Includes profile, username, text, and voice chats.**
@@ -68,7 +68,7 @@ Rule 3
 .. note::
     :ref:`No Disrespect or Drama`
 
-.. tip::
+.. important::
     :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels. 
     Furthermore, please report disruptions of drama or disrespect to our Modmail system.`
 
@@ -91,7 +91,7 @@ Rule 4
 .. note::
     :ref:`No Spamming or Off-Topic Content`
 
-.. tip::
+.. important::
     :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if applicable) channel-specific rules for each.`
 
 - **Keep message content relevant to channel.**
@@ -122,7 +122,7 @@ Rule 5
     :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the copyright infringement act applies to our server. By breaching the piracy-related rules below, you are 
     violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
 
-.. tip::
+.. important::
     :ref:`Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
 - **This includes discussion, advocation, or hinting.**
@@ -133,9 +133,12 @@ Do not discuss, advocate that someone perform, or even jokingly hint that someon
 
 - **Plutonium is only allowed if you own the game legally.**
 
+.. important::
+    :ref:`If you obtained the game for free in any way outside of being legally gifted, you most likely have committed piracy.`
+
 Big one here. The Plutonium website *distributes* (links to) illegal copies of the Call of Duty games by which their launcher serves private servers and other enhancements. 
 Outside of popular belief, you can use the client with a *Steam-purchased* copy of the game and it will work just as well if not better as they are the same game files. 
-Plutonium itself is not piracy, the act of downloading the game via torrent client is committing piracy. If you are found to have illegally obtained the game or are distrbuting information 
+*Plutonium itself is not piracy*, the act of *downloading the game via torrent client is committing piracy*. If you are found to have illegally obtained the game or are distrbuting information 
 to assist someone in committing piracy, both parties will be permanently banned.
 
 
@@ -145,6 +148,9 @@ Please do not use any clients besides these. Includes RektT5, IW6X, and others.
 
 
 - **Gamesharing is not allowed**
+
+.. important::
+    :ref:`Gamesharing is a feature for friends and family, not random members of a Discord server.`
 
 Asking others to gameshare_ with you is not only against Discord Terms of Service, but also against the Terms of Service on every platform that acts as a marketplace and client for games 
 (Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you are too broke (*Yes, broke. Go mow a lawn.*) to afford the game. Proper gamesharing is done as 
@@ -157,7 +163,7 @@ Rule 6
 .. note::
     :ref:`No Voice Communication Abuse`
 
-.. tip::
+.. important::
     :ref:`We simply request that you act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.`
 
 - **Do not be annoying, loud, or use soundboards.**
@@ -215,12 +221,17 @@ Rule 8
 .. note::
     :ref:`No Cheating, Glitching, or Exploiting`
 
-.. tip::
+.. important::
     :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form. Please play legitimate and if you cannot, find another community.`
+
+.. attention::
+    :ref:`Discord TOS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
+    Steam Workshop mod menus do not provide an unfair advantage, however may be frowned upon. 
+    Similarly, if you are playing prop hunt on a World at War mod menu, this would not be construed as cheating.`
 
 - **Includes asking for glitches, or discussion of any exploiting.**
 
-Any glitch or exploit discussion in an "\Looking for Group\" channel is not appropriate. That is a strictly cheat-free environment. Nobody is impressed you can godmode or clip through walls.
+Any glitch or exploit discussion in an \"Looking for Group\" channel is not appropriate. That is a strictly cheat-free environment. Nobody is impressed you can godmode or clip through walls.
 
 
 - **Selling or offering mod menus is an immediate permanent ban.**
@@ -237,7 +248,10 @@ Rule 9
 .. note::
     :ref:`You must Follow Discord TOS and Guidelines`
 
-.. tip::
+.. warning::
+    :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
+
+.. important::
     :ref:`The TOS can be overwhelming. However, it is your responsibility to have read it when you signed up for the platform and to keep updated with it.`
 
 - **No underage users (13+ only).**
