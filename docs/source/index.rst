@@ -1,11 +1,7 @@
-Welcome to the Call of Duty Zombies Discord Staff Documentation
+Welcome to the Call of Duty Zombies Discord Documentation
 ===================================
 
-**The Call of Duty Zombies Discord** has many tools and systems in place that cannot
-possibly all be kept up with, without some help from this documentation
 
-If you are stopping by and are not part of CODZ Staff, this doc is irrelevant to you,
-but you can still join us on `Discord <discord.gg/codzombies>`
 
 
 Check back for more updates!
@@ -19,5 +15,5 @@ Contents
 
 .. toctree::
 
-   moderation
-   warden_system
+   rules
+   server information
