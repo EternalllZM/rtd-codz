@@ -43,7 +43,7 @@ Rule 1 - No Advertising, Self Promotion, or Begging
 
 - **Begging of any form is not allowed.**
 
-You are to not beg for money, games, DLC packs, microtransactions, etc. from others on the server.
+You are to not beg for money, games, DLC packs, microtransactions, liquid diviniums, etc. from others on the server.
 
 
 - **Do not sell anything here.**
@@ -222,7 +222,7 @@ Do not attempt to evade your mute, it will only make it automatically permanent.
 - **You may not have more than one account on the server.**
 
 Please do not join with an alt onto the server or use an alternate account to evade a punishment. 
-This does not make us want to hear your case/appeal and instead removes all chances of an appeal being accepted.
+If you have a legitimate reason to join with an alternate account, please contact Modmail in order to get it approved.
 
 
 - **Do not imitate Staff in any way**
@@ -240,15 +240,14 @@ Rule 8 - No Cheating, Glitching, or Exploiting
 .. important::
     :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form.`
 
-.. attention::
-    :ref:`Discord ToS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
-    Steam Workshop mod menus do not provide an unfair advantage, however may be frowned upon. 
-    Similarly, if you are playing prop hunt on a World at War mod menu, this would not be construed as cheating.`
-
 - **Includes asking for glitches, or discussion of any exploiting.**
 
 Any cheating, glitching, or exploit discussion in an \"Looking for Group\" channel is not appropriate. That is a strictly cheat-free environment.
 
+.. note::
+    :ref:`Discord ToS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
+    Steam Workshop mod menus and/or World at War prop hunt menus do not provide an unfair advantage, but may be frowned upon. 
+    However, this would not be construed as cheating.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
@@ -257,7 +256,7 @@ Do not offer or sell mods to people in public channels or through DMs.
 
 - **Zero tolerance for cheating. We are here to enjoy Zombies.**
 
-Self explanatory.
+You may not ask for, or provide cheats of any form.
 
 Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
