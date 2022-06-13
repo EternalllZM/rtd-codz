@@ -52,7 +52,7 @@ This is not a marketplace. You may not sell your account, mods, or do anything i
 
 - **No community or clan recruitments.**
 
-We do not allow recruiting to other communities or clans. A clan system is not in Zombies natively, it does not belong here.
+We do not allow recruiting to other communities or clans.
 
 
 - **No external Discord invites.**
@@ -111,11 +111,11 @@ The smartest thing to do is to simply direct message Modmail that you are being 
 Rule 4 - No Spamming or Off-Topic Content
 ------------
 .. important::
-    :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if applicable) channel-specific rules for each.`
+    :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if available) channel-specific rules for each.`
 
 - **Keep message content relevant to channel.**
 
-Do not look for groups outside of the \"Looking for group\" category. On a similar note, do not hold discussions outside of the \"Discussion\" category. Simple right?
+Do not look for groups outside of the \"Looking for group\" category. On a similar note, do not hold discussions outside of the \"Discussion\" category.
 
 
 - **Read channel descriptions to better understand them.**
@@ -149,7 +149,7 @@ Do not discuss, advocate that someone perform, or even jokingly hint that someon
 
 - **Plutonium is only allowed if you own the game legally.**
 
-The Plutonium website distributes (links to) illegal copies of the Call of Duty Zombies games and a launcher by which they serve private servers and other enhancements. 
+The Plutonium website links to illegal copies of the Call of Duty Zombies games and a launcher by which they serve private servers and other enhancements. 
 You may not use that download or any other downloaded copies of the game other than Steam or a CD copy to use the Plutonium launcher. 
 Plutonium itself is not piracy, the act of downloading the game via torrent client is committing piracy. If you do not legally own the game, do not LFG for it.
 
@@ -169,8 +169,7 @@ Please do not use any clients besides these. Includes RektT5, IW6X, and others.
 
 Asking others to gameshare_ with you is not only against Discord Terms of Service, but also against the Terms of Service on every platform that acts as a marketplace and client for games 
 (Steam, Xbox, PSN, etc.). Please do not ask that others compromise their account and security because you do not want to purchase the content. 
-Proper gamesharing as intended is done with your **friends and family only**. We do not approve of Activision price gouging their older games. 
-However, that is not a reason to ask that someone violate TOS for you.
+Proper gamesharing as intended is done with your **friends and family only**. 
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
@@ -185,7 +184,7 @@ Rule 6 - No Voice Communication Abuse
 
 - **Do not be annoying, loud, or use soundboards.**
 
-Annoying is opinionated sure. However, if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
+Annoying is opinionated. However, if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
 
 
 -  **Please be respectful to others when in voice.**
@@ -238,7 +237,7 @@ Public channels are not the place for complaining about moderations you received
 Rule 8 - No Cheating, Glitching, or Exploiting
 ------------
 .. important::
-    :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form. Please play legitimate and if you cannot, find another community.`
+    :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form.`
 
 .. attention::
     :ref:`Discord TOS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
@@ -252,7 +251,7 @@ Any glitch or exploit discussion in an \"Looking for Group\" channel is not appr
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
-You will not be able to appeal your ban should you do this. **Do not** offer or sell mods to people in public or through DMs. You will also receive a Trust and Safety report to Discord.
+You will not be able to appeal your ban should you do this. Do not offer or sell mods to people in public or through DMs. You will also receive a Trust and Safety report to Discord.
 
 
 - **Zero tolerance for cheating. We are here to enjoy Zombies.**
