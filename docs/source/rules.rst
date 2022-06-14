@@ -9,7 +9,7 @@ Overview
 .. important::
     :ref:`The intent of these rules are to ensure members are LFGing in an ad, drama, and cheat free environment. They assist in fostering a comfortable and healthy community for all who are willing to abide by them.`
 
-.. attention::
+.. tip::
     :ref:`Use the menu navigation to quickly jump to a specific rule.`
 
 - **There are no loopholes in these rules.**
@@ -66,7 +66,7 @@ We do not allow recruiting to other communities or clans.
 
 - **No Discord invites.**
 
-You may not post any Discord invites or invite others to a Discord community that is not affiliated with with our server.
+You may not invite others to another Discord community that is not ours.
 
 
 - **DM Modmail about advertising.**
@@ -76,7 +76,7 @@ All potential advertising should be processed through Modmail before posting. Th
 
 - **Content goes in #zombies-streams.**
 
-Please ensure that your zombies related streams and videos go into this channel and do not creep into other channels not related to that specific content.
+Please ensure that your zombies related streams and videos go into this channel and does not leak into other channels.
 
 
 Rule 2 - No NSFW or Disruptive Content
@@ -86,7 +86,7 @@ Rule 2 - No NSFW or Disruptive Content
 
 - **Includes profile, username, text, emotes, and voice chats.**
 
-Basically anything that is associated with you such as statuses, messages used that include emotes, stickers, etc. Please do not use anything NSFW or explicit.
+Anything that is associated with you such as statuses, messages used that include emotes, stickers, etc. Please do not use anything NSFW or explicit.
 
 
 - **Suggestive content reviewed at moderator's discretion.**
@@ -131,7 +131,7 @@ Do not look for groups outside of the \"Looking for Group\" category. Similarly,
 
 - **Do not post GIFs.**
 
-GIFs are extremely distracting and divert attention away from LFGs. The bot prevents you from posting these so do not do it in the first place.
+GIFs are extremely distracting and divert attention away from LFGs. The bot prevents you from posting these, so do not do it in the first place.
 
 
 - **Read channel descriptions to better understand them.**
@@ -165,15 +165,14 @@ Do not discuss, advocate that someone perform, or even jokingly hint that someon
 .. _commit the act of piracy: https://en.wikipedia.org/wiki/Copyright_infringement#%22Piracy%22
 
 - **Plutonium is only allowed if you own the game legally.**
-
-The Plutonium website links to illegal copies of the Call of Duty Zombies games and a launcher by which they serve private servers and other enhancements. 
-You may not use that download or any other downloaded copies of the game other than Steam or a CD copy to use the Plutonium launcher. If you do not legally own the game, do not LFG for it.
+ 
+You may not use any game copies other than Steam or a CD/DVD ROM to use the Plutonium launcher. If you do not legally own the game, do not LFG for it.
 
 .. warning::
     :ref:`If you obtained the game for free in any way outside of being legally gifted, you likely have committed piracy.`
 
 .. note::
-    :ref:`Plutonium when used with a valid purchased Steam copy of the game is legal and may be used.`
+    :ref:`Plutonium when used with a valid purchased Steam copy of the game is legal and may be used to LFG.`
 
 
 - **Clients not Steam, Battle.net, or Plutonium are not allowed.**
@@ -183,13 +182,13 @@ Includes RektT5, IW6x, and all others.
 
 - **Do not ask for others to gameshare with you.**
 
-Asking others members to gameshare_ with you against Discord Terms of Service and the ToS of every platform that acts as a marketplace and client for games 
+Asking other members to gameshare_ with you against Discord Terms of Service and the ToS of every platform that acts as a marketplace and client for games 
 (Steam, Xbox, PSN, etc.). Do not ask that others compromise their account and security because you do not want to, or cannot afford to purchase the content. 
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
 .. note::
-    :ref:`Gamesharing is a feature for friends and family, not random members of a Discord server.`
+    :ref:`Gamesharing is a feature meant for friends and family, not random members of a Discord server.`
 
 
 
@@ -200,8 +199,10 @@ Rule 6 - No Voice Communication Abuse
 
 - **Do not be annoying, loud, or use soundboards.**
 
-Annoying is opinionated. However, if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
+Annoying is subjective. However, if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
 
+.. tip::
+    :ref:`If you frequent voice channels, it is a good idea to use recording software alongside the Discord overlay to properly catch and report voice channel abusers.`
 
 -  **Please be respectful to others when in voice.**
 
@@ -220,14 +221,14 @@ Rule 7 - No Staff Disrespect or Punishment Evasion
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
-The Staff team, in best faith, have a sole objective to ensure that members are able to LFG in an advertisement, drama, and cheat free environment. 
-Do not disrespect or impede on their moderation duties. Everyone makes mistakes, but public channels are not the proper place to discuss or object to these.
+The Staff uphold and enforce the server rules, which means they sometimes must moderate or call out rule breaking behavior publicly. 
+Do not disrespect or impede on their moderation duties. Public channels are not the proper place to discuss or object to these.
 
 
 - **If a Moderator or bot tells you to stop doing something, stop it.**
 
-If the bot posts a public warning, immediately cease the rule violation or (in the case of Rule 4) change the topic of discussion. 
-There are no further verbal warnings should you continue and a punishment will be placed immediately.
+If the bot posts a public warning, immediately cease the rule violation or change the topic of discussion back to the channel's intended purpose. 
+A punishment will be placed immediately should you ignore the warning.
 
 
 - **Evading mutes make them permanent. Automatically.**
@@ -259,11 +260,11 @@ Rule 8 - No Cheating, Glitching, or Exploiting
 - **Includes asking for glitches, or discussion of any exploiting.**
 
 Any cheating, glitching, or exploit discussion on the server is strictly not allowed. 
-However, if it is related to a discussion in a discussion channel and the intent is not maliciously to inform or distribute, it may be allowed (at Moderator discretion).
+However, if it is discussion related and not malciously attempting to inform or distribute, it may be allowed (at Moderator discretion).
 
 .. note::
     :ref:`For example, you may discuss the Jet Gun knifing glitch or how to remove George Romero's lightning shock as legitimate strategies. 
-    You may not, however, distribute how to godmode, noclip into out of map areas, etc.`
+    You may not, however, distribute how to godmode, unlock all, noclip into out of map areas, etc.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
