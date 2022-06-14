@@ -159,3 +159,17 @@ MP servers are not as toxic
 ------------
 
 Comment made by a (now deleted) user who when their opinion was disagreed with by the entire channel, proceeded to say, \"I think I should go join mp servers they're not as toxic\". 
+
+!origins
+------------
+
+A command used that `invokes a GIF`_ to make poke fun at the ridiculous amount of people who rate Origins and Mob of the Dead as the best maps to exist. 
+Alternatively, !notorigins is used when someone asks why Origins and Mob of the Dead are not on the top of someone's tier list.
+
+.. _`invokes a GIF`: https://cdn.discordapp.com/attachments/740308244014170216/952781892204253246/ezgif.com-gif-maker_3.gif
+
+Monkey Bomb Glitch
+------------
+
+A cold war exploit in 2020 that plagued the server and the (lack of at the time) moderators in handling the sheer amount of exploiting. 
+Every few messages someone would be asking to \"monkey bomb glitch\" so much that an auto-reaction with a man throwing trash at their message was made. 
