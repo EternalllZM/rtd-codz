@@ -38,17 +38,29 @@ It is used as an inside joke to refer to the Staff team with many `memes and gif
 A meme based off an LFG post made by **[VSM] Major Marquis** which included an unnecessary amount of emotes and hilarious phrases such as \"NO EU\".
 
 🧟‍♂️Zombies 🧟‍♀️ EE    MDT
+
 🗽English w/mic🎙
+
 🇨🇦North American server only🇺🇸
+
 📡Comms🎧
+
 ❄️Be Chill 🆒
+
 🚫No kids👶
+
 💦No tryhard🤪
+
 😡No rage quitters🤬
+
 🚫No crybabies 😢
+
 💥Shoot em up🔫
+
 🌟FUN🎊
+
 🚫 CROSSPLAY DONT MATTER ‼️
+
 🚫NO EU🚫
 
 BO4 underrated
@@ -142,3 +154,8 @@ Clip taken from a streamed game of Moon featuring Eternalll, Devour, and Salt wh
 It has since been made a sticker and `repeatedly memed`_ due to how off the mark the flop was and immediately downing right after. 
 
 .. _`repeatedly memed`: https://cdn.discordapp.com/attachments/925838630595993660/978282707228442644/Videoleap-DF365445-257D-4F9B-82E5-0355F153E49F.mov
+
+MP servers are not as toxic
+------------
+
+Comment made by a (now deleted) user who when their opinion was disagreed with by the entire channel, proceeded to say, \"I think I should go join mp servers they're not as toxic\". 
