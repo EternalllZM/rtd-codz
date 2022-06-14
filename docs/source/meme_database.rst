@@ -145,7 +145,7 @@ what zombies maps are in waw
 
 A commonly referenced `image from a Google search`_ showing the maps \"Kino Der Toten, Gorod Krovi, Shangri-La, and Die Rise\" being maps available in World at War.
 
-.. _`image from Google search`: https://cdn.discordapp.com/attachments/771083456351830046/863868844883705916/unknown.png
+.. _`image from a Google search`: https://cdn.discordapp.com/attachments/771083456351830046/863868844883705916/unknown.png
 
 Salt's Moon flop
 ------------
