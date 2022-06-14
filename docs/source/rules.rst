@@ -9,9 +9,22 @@ Overview
 .. important::
     :ref:`The intent of these rules are to ensure members are LFGing in an ad, drama, and cheat free environment. They assist in fostering a comfortable and healthy community for all who are willing to abide by them.`
 
+.. attention::
+    :ref:`Use the menu navigation to quickly jump to a specific rule.`
+
 - **There are no loopholes in these rules.**
 
 No, you did not find a loophole. The Staff team will punish at discretion line-treading rule violations.
+
+
+- **English only for all communications.**
+
+Please only use the English language on our server. This is done so we can support our users properly and efficiently.
+
+
+- **Do not bait others into breaking the rules.**
+
+Do not craft messages with the intent to bait another member into breaking the rules.
 
 
 - **Do not backseat moderate.**
@@ -20,11 +33,6 @@ If you are not in a moderator position, report the content to Modmail instead of
 
 .. note::
     :ref:`Apply for Staff if you wish to enforce rules and be part of our team.`
-
-- **Bans are issued after many warnings or a severe rule break.**
-
-There is no set limit before your account is banned for multiple violations of the rules. However, the weight of the infraction is heavily considered upon the second and third (and above [if any]) punishment.
-
 
 - **You may not appeal punishments on behalf of another user.**
 
@@ -41,7 +49,7 @@ Rule 1 - No Advertising, Self Promotion, or Begging
 .. important::
     :ref:`Simply, we ask that you respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.`
 
-- **Begging of any form is not allowed.**
+- **Begging of any form for anything is not allowed.**
 
 You are to not beg for money, games, DLC packs, microtransactions, liquid diviniums, etc. from others on the server.
 
@@ -56,7 +64,7 @@ This is not a marketplace. You may not sell your account, mods, or do anything i
 We do not allow recruiting to other communities or clans.
 
 
-- **No external Discord invites.**
+- **No Discord invites.**
 
 You may not post any Discord invites or invite others to a Discord community that is not affiliated with with our server.
 
@@ -74,11 +82,11 @@ Please ensure that your zombies related streams and videos go into this channel 
 Rule 2 - No NSFW or Disruptive Content
 ------------
 .. important::
-    :ref:`Please do not post pornographic or suggestive content. Do not intentionally post disruptive content that is likely to cause drama or arguments.`
+    :ref:`Please do not post NSFW or suggestive content. Do not intentionally post disruptive content that is likely to cause drama or arguments.`
 
-- **Includes profile, username, text, and voice chats.**
+- **Includes profile, username, text, emotes, and voice chats.**
 
-If any of the following above contain NSFW content, we may take action without verbal warning. Please do not set your profile picture or username to content that is explicit.
+Basically anything that is associated with you such as statuses, messages used that include emotes, stickers, etc. Please do not use anything NSFW or explicit.
 
 
 - **Suggestive content reviewed at moderator's discretion.**
@@ -94,8 +102,7 @@ Not only is this disruptive, it is specifically not allowed in the channel descr
 Rule 3 - No Disrespect or Drama
 ------------
 .. important::
-    :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels. 
-    Report disruptions by means of drama or disrespect to our Modmail system.`
+    :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels.`
 
 - **Insulting others is not allowed.**
 
@@ -115,11 +122,16 @@ The smartest thing to do is to simply direct message Modmail that you are being 
 Rule 4 - No Spamming or Off-Topic Content
 ------------
 .. important::
-    :ref:`Do not spam the server or be repeatedly off-topic in channels. You can use the channel descriptions to understand the (if available) channel-specific rules for each.`
+    :ref:`Do not spam pings, emotes, caps, or LFG messages. Likewise, please post content in the proper channels. (Use the channel descriptions)`
 
 - **Keep message content relevant to channel.**
 
 Do not look for groups outside of the \"Looking for Group\" category. Similarly, do not hold discussions outside of the \"Discussion\" category.
+
+
+- **Do not post GIFs.**
+
+GIFs are extremely distracting and divert attention away from LFGs. The bot prevents you from posting these so do not do it in the first place.
 
 
 - **Read channel descriptions to better understand them.**
@@ -132,6 +144,11 @@ Ensure you are contributing appropriate content in each channel. This is a Disco
 Please do not spam ping users, unnecessarily use many caps, or spam a ridiculous amount of emotes. Please keep chat clean.
 
 
+- **LFG (looking for group) should only be posted in LFG channels.**
+
+Please do not look for groups or games anywhere outside of the dedicated LFG channels.
+
+
 Rule 5 - No Piracy or Gamesharing
 ------------
 .. important::
@@ -141,7 +158,7 @@ Rule 5 - No Piracy or Gamesharing
     :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the Copyright Infringement Act applies to our server. By breaching the piracy-related rules below, you are 
     violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
 
-- **This includes discussion, advocation, or hinting.**
+- **This includes discussion, advocation, jokes, or hinting.**
 
 Do not discuss, advocate that someone perform, or even jokingly hint that someone should `commit the act of piracy`_.
 
@@ -161,14 +178,13 @@ You may not use that download or any other downloaded copies of the game other t
 
 - **Clients not Steam, Battle.net, or Plutonium are not allowed.**
 
-Includes RektT5, IW6X, and others.
+Includes RektT5, IW6x, and all others.
 
 
-- **Gamesharing is not allowed**
+- **Do not ask for others to gameshare with you.**
 
-Asking others members to gameshare_ with you is not only against Discord Terms of Service, but also against the Terms of Service on every platform that acts as a marketplace and client for games 
+Asking others members to gameshare_ with you against Discord Terms of Service and the ToS of every platform that acts as a marketplace and client for games 
 (Steam, Xbox, PSN, etc.). Do not ask that others compromise their account and security because you do not want to, or cannot afford to purchase the content. 
-Proper gamesharing as intended is done with your friends and family only.
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
@@ -194,7 +210,7 @@ There is no reason to be unreasonably rude or bully others in voice chat session
 
 -  **Do not abuse music bots or play loud sounds/suggestive content.**
 
-Please be respectful of the bots and those listening by not repeatedly playing obnoxious content or loud sounds (*commonly referred to as earrape*).
+Please be respectful of the bots and those listening by not playing obnoxious content or loud sounds (*commonly referred to as earrape*).
 
 
 Rule 7 - No Staff Disrespect or Punishment Evasion
@@ -219,7 +235,7 @@ There are no further verbal warnings should you continue and a punishment will b
 Do not attempt to evade your mute, it will only make it automatically permanent. We do not remove permanent mutes by those trying to evade. You will have to reach out to Modmail once your mute expires.
 
 
-- **You may not have more than one account on the server.**
+- **You may only have one account on the server.**
 
 Please do not join with an alt onto the server or use an alternate account to evade a punishment. 
 If you have a legitimate reason to join with an alternate account, please contact Modmail in order to get it approved.
@@ -227,7 +243,7 @@ If you have a legitimate reason to join with an alternate account, please contac
 
 - **Do not imitate Staff in any way**
 
-Do not imitate Staff by means of trying to backseat moderate, changing usernames to match Staff, or claim that you are a Moderator.
+Do not imitate Staff by means of trying to backseat moderate, changing usernames to match Staff, or claim that you are a Staff member.
 
 
 - **Do not complain about punishments in public channels.**
@@ -242,21 +258,21 @@ Rule 8 - No Cheating, Glitching, or Exploiting
 
 - **Includes asking for glitches, or discussion of any exploiting.**
 
-Any cheating, glitching, or exploit discussion in an \"Looking for Group\" channel is not appropriate. That is a strictly cheat-free environment.
+Any cheating, glitching, or exploit discussion on the server is strictly not allowed. 
+However, if it is related to a discussion in a discussion channel and the intent is not maliciously to inform or distribute, it may be allowed (at Moderator discretion).
 
 .. note::
-    :ref:`Discord ToS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
-    Steam Workshop mod menus and/or World at War prop hunt menus do not provide an unfair advantage, but may be frowned upon. 
-    However, this would not be construed as cheating.`
+    :ref:`For example, you may discuss the Jet Gun knifing glitch or how to remove George Romero's lightning shock as legitimate strategies. 
+    You may not, however, distribute how to godmode, noclip into out of map areas, etc.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
 Do not offer or sell mods to people in public channels or through DMs.
 
-
-- **Zero tolerance for cheating. We are here to enjoy Zombies.**
-
-You may not ask for, or provide cheats of any form.
+.. note::
+    :ref:`Discord ToS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
+    Steam Workshop mod menus and/or World at War prop hunt menus do not provide an unfair advantage, but may be frowned upon. 
+    However, this would not be construed as cheating. If you are unsure, please reach out to Modmail to ask if something is allowed.`
 
 Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
@@ -268,7 +284,7 @@ Rule 9 - You must Follow Discord ToS and Guidelines
 
 - **No underage users (13+ only).**
 
-You must be 13 years of age or older to use the server. No exceptions (obviously).
+You must be 13 years of age or older to use the server.
 
 =====
 Channel Rules

@@ -16,11 +16,13 @@ Bot Policy
 
 You understand that in order to perform competent moderation and assist with other functions of the Discord, the following information may be stored on our servers:
 
-- Message content, reactions and total messages sent for leveling, moderation, and message logging.
-
 - Usernames, avatars, and discriminators.
 
 - Voice state (How long you have been in a voice channel).
+
+- User statuses to scan and find cheat sellers and distributors.
+
+- Message content, reactions and total messages sent for leveling and moderation.
 
 
 This data is used and stored securely only for logging and moderation purposes when requested specifically by Call of Duty Zombies Staff and is not publicly available for viewing.
