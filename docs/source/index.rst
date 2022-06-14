@@ -10,4 +10,5 @@ Contents
 
    rules
    server information
+   meme_database
    privacy_policy
