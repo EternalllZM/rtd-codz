@@ -71,12 +71,12 @@ You may not invite others to another Discord community that is not ours.
 
 - **DM Modmail about advertising.**
 
-All potential advertising should be processed through Modmail before posting. This includes self promotional YouTube videos, mod showcases, etc.
+All requests for advertising should be processed through Modmail before posting. This includes self promotional YouTube videos, mod showcases, etc.
 
 
 - **Content goes in #zombies-streams.**
 
-Please ensure that your zombies related streams and videos go into this channel and does not leak into other channels.
+Ensure that your zombies related streams and videos go into this channel and does not leak into other channels.
 
 
 Rule 2 - No NSFW or Disruptive Content
@@ -86,7 +86,7 @@ Rule 2 - No NSFW or Disruptive Content
 
 - **Includes profile, username, text, emotes, and voice chats.**
 
-Anything that is associated with you such as statuses, messages used that include emotes, stickers, etc. Please do not use anything NSFW or explicit.
+Please do not put anything NSFW or explicit on anything that is associated with you such as profile pictures, statuses, messages sent that include emotes, stickers, etc.
 
 
 - **Suggestive content reviewed at moderator's discretion.**
@@ -96,7 +96,7 @@ The Moderator who first sees explicit or suggestive content will moderate it at 
 
 - **Trolling discussion channels is not allowed.**
 
-Not only is this disruptive, it is specifically not allowed in the channel descriptions of the discussion channels. Please take it somewhere else not in the server.
+Not only is this disruptive, it is specifically not allowed in the channel description of the discussion channels. Please take it somewhere else not in the server.
 
 
 Rule 3 - No Disrespect or Drama
@@ -106,17 +106,17 @@ Rule 3 - No Disrespect or Drama
 
 - **Insulting others is not allowed.**
 
-Please do not insult others by name calling, reply pinging when users ask you to stop, etc.
+Do not insult others by name calling, reply pinging when users ask you to stop, etc.
 
 
 - **Keep arguments out of the server.**
 
-Do not interrupt the experience of others on the server by arguing in public channels or causing drama. Both users (no matter who started) will be punished should this occur.
+Do not argue in public channels or cause drama. Both users (no matter who started) will be punished should this occur.
 
 
 - **DM Modmail to report users.**
 
-The smartest thing to do is to simply direct message Modmail that you are being insulted/harrassed. It will save all of us time in resolving the issue.
+Direct message Modmail that you are being insulted/harrassed instead of trying to \"fight back\". It will save everyone time in resolving the issue.
 
 
 Rule 4 - No Spamming or Off-Topic Content
@@ -233,12 +233,12 @@ A punishment will be placed immediately should you ignore the warning.
 
 - **Evading mutes make them permanent. Automatically.**
 
-Do not attempt to evade your mute, it will only make it automatically permanent. We do not remove permanent mutes by those trying to evade. You will have to reach out to Modmail once your mute expires.
+Do not attempt to evade your mute, it will only make it permanent. We do not remove permanent mutes by those trying to evade. You will have to reach out to Modmail once your mute expires.
 
 
 - **You may only have one account on the server.**
 
-Please do not join with an alt onto the server or use an alternate account to evade a punishment. 
+Please do not join with an alternate account onto the server or use one to evade a punishment. 
 If you have a legitimate reason to join with an alternate account, please contact Modmail in order to get it approved.
 
 
