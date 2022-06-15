@@ -48,14 +48,14 @@ Anonymously send a message to the member who invoked the Modmail. The only cavea
 
 - **!edit <number> <new text>**
 
-Edit your responses to Modmail. Use the number (**#**) in the footer as a reference for which response to edit.
+Edit your responses to Modmail. Use the number **#** in the footer as a reference for which response to edit.
 
 .. attention::
     :ref:`Edited responses are viewable by the Staff team in the logs channel.`
 
 - **!delete <number>**
 
-Delete your responses to Modmail. Use the number (#) in the footer as a reference for which response to edit.
+Delete your responses to Modmail. Use the number **#** in the footer as a reference for which response to edit.
 
 .. attention::
     :ref:`Deleted responses are viewable by the Staff team in the logs channel.`
