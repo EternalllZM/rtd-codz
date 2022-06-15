@@ -19,27 +19,33 @@ Basic Commands
 
 This command is used to speak within a thread in Staff-only mode. Messages sent prefixed by this command will not send any messages to the user.
 
+.. tip::
+    :ref:`Please use this to converse among Staff and make comments until you are ready to communicate with the member.`
+
 - **!ar <text>**
 
-This will anonymously send a message to the member who invoked the Modmail. The only caveat is that your highest *hoisted* role will be shown alongside the anonymous label.
+Anonymously send a message to the member who invoked the Modmail. The only caveat is that your highest *hoisted* role will be shown alongside the anonymous label.
 
 - **!edit <number> <new text>**
 
-Edit your responses to Modmail. Use the number (#) in the footer as a reference for which response to edit.
+Edit your responses to Modmail. Use the number (**#**) in the footer as a reference for which response to edit.
 
 .. attention::
-    :ref:`Edited responses are still viewable by the Staff team in the logs channel.`
+    :ref:`Edited responses are viewable by the Staff team in the logs channel.`
 
 - **!delete <number>**
 
 Delete your responses to Modmail. Use the number (#) in the footer as a reference for which response to edit.
 
 .. attention::
-    :ref:`Deleted responses are still viewable by the Staff team in the logs channel.`
+    :ref:`Deleted responses are viewable by the Staff team in the logs channel.`
 
 - **!newthread <userid>**
 
 Use this to silently invoke a Modmail thread with a specified user if they are having issues reaching out to Modmail, or if you need to privately ask them something.
+
+.. note::
+    :ref:`This thread creation method does not ping the Modmail Reports role.`
 
 - **!close (time)**
 
@@ -53,6 +59,13 @@ Block a user from opening a Modmail for a specified time. You should always plac
 
 Invoke a list of snippets you can send to the user to save time typing the same thing.
 
+- **!!<snip>**
+
+Use a listed snip within the Modmail thread. Add an extra **!** to send it anonymously.
+
 - **!alert**
 
-Ask that the Modmail bot notify you of any new responses received within the thread. You can disable this by using *!alert cancel*
+Ask that the Modmail bot notify you of any new responses received within the thread.
+
+.. tip::
+    :ref:`You can disable this by issuing the command **!alert cancel**.`
