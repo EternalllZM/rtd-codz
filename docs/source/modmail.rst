@@ -12,6 +12,26 @@ Overview
 Modmail is a bot-assisted system by which the Call of Duty Zombies moderators are able to efficiently communicate privately with other members of the server about various issues or topics. 
 Mostly, it is used for members to report rule-breaking members and ask general questions.
 
+Scope and Usage
+------------
+
+- **Modmail is for serious inquiries or reports only.**
+
+Questions about the server or reports of rule breaking behavior by other members are valid reasons for reaching out to Modmail. 
+Members asking if anyone wants to play, or making small talk with no direct intent to do any of the formerly listed valid reasons for opening Modmail constitutes a closure of the thread.
+
+- **Evidence is always required.**
+
+When a rule violation is reported, the member must have evidence. If occurring in voice, the Discord overlay or showing of the voice channel is required.
+
+- **We are not game tech support.**
+
+We are not associated with Activision or Treyarch. Therefore, we cannot assist with in-game issues outside of directing a user to forums and official support to steer them in the proper direction.
+
+- **Modmail Abuse**
+
+We will cover how to counteract abuse of the Modmail system. For now, just know that repeated abuses of the Modmail system may justify a punishment being placed on the account, and a block from using Modmail.
+
 Basic Commands
 ------------
 
@@ -68,4 +88,4 @@ Use a listed snip within the Modmail thread. Add an extra **!** to send it anony
 Ask that the Modmail bot notify you of any new responses received within the thread.
 
 .. tip::
-    :ref:`You can disable this by issuing the command **!alert cancel**.`
+    :ref:`You can disable this by issuing the command !alert cancel.`

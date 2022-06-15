@@ -96,7 +96,7 @@ Many `hilarious memes`_ have been spawned from this pseudo-gaslight.
 Dragon Cog
 ------------
 
-Originating from Zetsubo No Shima game. The word \"cog\" was misheard by a member to be a rather NSFW word.
+Originating from Zetsubo No Shima game. The word \"cog\" was misheard by a member to be a rather NSFW word. (dragon c*ck)
 
 Matmano9
 ------------
