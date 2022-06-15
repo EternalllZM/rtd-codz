@@ -1,0 +1,58 @@
+=====
+Modmail Guide
+=====
+
+.. _installation:
+
+Overview
+------------
+.. important::
+    :ref:`This page is meant to be private and not viewed by the general public. It contains no usable information for the average member.`
+
+Modmail is a bot-assisted system by which the Call of Duty Zombies moderators are able to efficiently communicate privately with other members of the server about various issues or topics. 
+Mostly, it is used for members to report rule-breaking members and ask general questions.
+
+Basic Commands
+------------
+
+- **!note**
+
+This command is used to speak within a thread in Staff-only mode. Messages sent prefixed by this command will not send any messages to the user.
+
+- **!ar <text>**
+
+This will anonymously send a message to the member who invoked the Modmail. The only caveat is that your highest *hoisted* role will be shown alongside the anonymous label.
+
+- **!edit <number> <new text>**
+
+Edit your responses to Modmail. Use the number (#) in the footer as a reference for which response to edit.
+
+.. attention::
+    :ref:`Edited responses are still viewable by the Staff team in the logs channel.`
+
+- **!delete <number>**
+
+Delete your responses to Modmail. Use the number (#) in the footer as a reference for which response to edit.
+
+.. attention::
+    :ref:`Deleted responses are still viewable by the Staff team in the logs channel.`
+
+- **!newthread <userid>**
+
+Use this to silently invoke a Modmail thread with a specified user if they are having issues reaching out to Modmail, or if you need to privately ask them something.
+
+- **!close (time)**
+
+Close a Modmail thread, optionally with a time specified before automatically closing.
+
+- **!block (time)**
+
+Block a user from opening a Modmail for a specified time. You should always place a timed block instead of a permanent block. Reserve this for repeated abuses of the system.
+
+- **!snips**
+
+Invoke a list of snippets you can send to the user to save time typing the same thing.
+
+- **!alert**
+
+Ask that the Modmail bot notify you of any new responses received within the thread. You can disable this by using *!alert cancel*
