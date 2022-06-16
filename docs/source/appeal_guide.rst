@@ -31,7 +31,7 @@ At the end of the day, you posted it into ours and were banned. That being said,
 
 \"I do not know the reason why I was banned.\"
 ::
-    You are linked to the entire list of rules above. They are also on the side bar. There is no excuse.
+    You are linked to the entire list of rules above and on the side bar. There is no excuse.
 
 \"I meant to send that to a friend.\"
 ::
