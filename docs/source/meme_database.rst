@@ -162,6 +162,7 @@ A message sent by **Sandblock** into #zombies-discussion where when asked about 
 
     .. image::  /media/mdb-kino_hardest_map.png
 
+The greatest reason for an opinion ever.
 
     .. image::  /media/mdb-kino_hardest_map2.png
 
