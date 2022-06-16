@@ -56,10 +56,12 @@ Rule 1 - No Advertising, Self Promotion, or Begging
 You are to not beg for money, games, DLC packs, microtransactions, liquid diviniums, etc. from others on the server.
 
 
-- **Do not sell anything here.**
+- **Do not sell or trade anything here.**
 
-This is not a marketplace. You may not sell your account, mods, or do anything involving a monetary transaction.
+This is not a marketplace. You may not sell or trade your account, mods, or do anything involving a monetary transaction.
 
+.. warning::
+    :ref:`Selling and/or trading accounts is also against ATVI terms of service, and the ToS of other platforms such as Steam, Xbox, PSN, etc.`
 
 - **No community or clan recruitments.**
 

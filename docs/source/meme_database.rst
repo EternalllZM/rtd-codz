@@ -24,8 +24,11 @@ Also expands into other common butcherings via autocorrect such as \"Organs\" (O
 WaW Elitist
 ------------
 
-A phrase used by **Jesus Christ** when leaving a negative review of the server on Disboard where Staff members Salt and Eternalll were called \"waw elitists\". 
+A phrase used by **Jesus Christ** in #zombies-discussion calling Salt a \"waw enthusiast\", 
+later leaving a negative review of the server on Disboard where Staff members Salt and Eternalll were called \"elitists\". Thus spawning a combination of waw and elitist into \"waw elitist\". 
 The meme is iconic because there is not a single Staff member whose favorite game is World at War and just makes no sense in general.
+
+    .. image::  /media/mdb-waw_elitist.png
 
 Z-Staff
 ------------
@@ -158,6 +161,7 @@ BO3 Kino is the hardest map of all time
 A message sent by **Sandblock** into #zombies-discussion where when asked about why, responded with, \"idk\". When BO3 kino is brought up, members will jokingly say it's the hardest map of all time.
 
     .. image::  /media/mdb-kino_hardest_map.png
+
 
     .. image::  /media/mdb-kino_hardest_map2.png
 
