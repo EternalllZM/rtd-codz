@@ -1,14 +1,19 @@
 Call of Duty Zombies Discord Documentation
 ===================================
 
-This page serves as an index for the documentation related to our Discord. Please use the **contents** section below to navigate to a specific topic.
+This page serves as an index for documentation related to our Discord.
 
-Contents
+Server Rules
 --------
 
 .. toctree::
 
    rules
-   server information
+
+Server Content
+--------
+
+.. toctree::
+
    meme_database
    privacy_policy
