@@ -7,7 +7,8 @@ Meme Database
 Overview
 ------------
 .. important::
-    :ref:`This page serves to act as a database for the inside jokes of the server.`
+    
+    `This page serves to act as a database for the inside jokes of the server.`
 
 Kindertown
 ------------
@@ -88,7 +89,7 @@ PHD and Mule kick invented by Cold War
 A joke regarding the (unoriginality of the perks) release of Mule Kick (and later PhD) into Black Ops Cold War where players would say it is the \"new perk\" despite originating in Black Ops 1. 
 Obviously, everyone knows it is not new, but the joke is to claim it is from Cold War as barely anything is original in that game.
 
-    .. image::  /.resources/media/mdb-mule_kick.png
+    .. image::  /media/mdb-mule_kick.png
         :alt: Mule kick... brand new!
 
 The PPSH was never in BO1
@@ -157,7 +158,7 @@ what zombies maps are in waw
 
 A commonly referenced image from a Google search showing the maps \"Kino Der Toten, Gorod Krovi, Shangri-La, and Die Rise\" being available in World at War.
 
-    .. image::  /.resources/media/mdb-world_at_war_maps.png
+    .. image::  media/mdb-world_at_war_maps.png
         :alt: Die rise as a world at war map... lol!
 
 Salt's Moon flop
