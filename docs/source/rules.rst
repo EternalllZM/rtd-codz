@@ -14,7 +14,7 @@ Overview
 
 .. warning::
     :ref:`You are fully responsible for the security of the account and messages posted by it. 
-    It does not matter who was using the account at the time or whether you meant to post said copy-pasted content in another server, you posted it in ours.`
+    It does not matter who was using the account at the time or whether you meant to post said content in a different server, you posted it in ours.`
 
 - **There are no loopholes in these rules.**
 
@@ -135,17 +135,17 @@ Do not look for groups outside of the \"Looking for Group\" category. Similarly,
 
 - **Do not post GIFs.**
 
-GIFs are extremely distracting and divert attention away from LFGs. The bot prevents you from posting these, so do not do it in the first place.
+GIFs are extremely distracting and divert attention away from those looking for groups.
 
 
 - **Read channel descriptions to better understand them.**
 
-Ensure you are contributing appropriate content in each channel. This is a Discord-native feature intended to describe the channel purpose. Read em!
+Ensure contributions are appropriate for each channel by reading their description.
 
 
 - **Includes pings, caps, and emote spam.**
 
-Please do not spam ping users, unnecessarily use many caps, or spam a ridiculous amount of emotes. Please keep chat clean.
+Please do not spam ping users or attempt to ping a large amount of users, unnecessarily use many caps, or spam a ridiculous amount of emotes.
 
 
 - **LFG (looking for group) should only be posted in LFG channels.**
@@ -164,13 +164,13 @@ Rule 5 - No Piracy or Gamesharing
 
 - **This includes discussion, advocation, jokes, or hinting.**
 
-Do not discuss, advocate that someone perform, or even jokingly hint that someone should `commit the act of piracy`_.
+Do not discuss, advocate that someone perform, or jokingly hint that someone should `commit the act of piracy`_.
 
 .. _commit the act of piracy: https://en.wikipedia.org/wiki/Copyright_infringement#%22Piracy%22
 
 - **Plutonium is only allowed if you own the game legally.**
  
-You may not use any game copies other than Steam or a CD/DVD ROM to use the Plutonium launcher. If you do not legally own the game, do not LFG for it.
+You may not use any game copies other than Steam or a CD/DVD to look for groups using the Plutonium launcher.
 
 .. warning::
     :ref:`If you obtained the game for free in any way outside of being legally gifted, you likely have committed piracy.`
@@ -181,20 +181,21 @@ You may not use any game copies other than Steam or a CD/DVD ROM to use the Plut
 
 - **Clients not Steam, Battle.net, or Plutonium are not allowed.**
 
-Includes RektT5, IW6x, and all others.
+Includes RektT5, IW6x, and all others under this scope.
 
 
 - **Do not ask for others to gameshare with you.**
 
-Asking other members to gameshare_ with you against Discord Terms of Service and the ToS of every platform that acts as a marketplace and client for games 
-(Steam, Xbox, PSN, etc.). Do not ask that others compromise their account and security because you do not want to, or cannot afford to purchase the content. 
+Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for Discord and every online digital marketplace (Steam, Xbox, PSN, etc.). 
+Do not ask that others compromise their account and security because you do not want to purchase the content yourself.
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
 .. note::
     :ref:`Gamesharing is a feature meant for friends and family, not random members of a Discord server.`
 
-
+.. warning::
+    :ref:`Somebody hacking on a gameshared DLC or the game itself can get your account banned instead of theirs if you were sharing the content with them.`
 
 Rule 6 - No Voice Communication Abuse
 ------------
@@ -203,7 +204,7 @@ Rule 6 - No Voice Communication Abuse
 
 - **Do not be annoying, loud, or use soundboards.**
 
-Annoying is subjective. However, if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
+Annoying is subjective. Though if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
 
 .. tip::
     :ref:`If you frequent voice channels, it is a good idea to use recording software alongside the Discord overlay to properly catch and report voice channel abusers.`
@@ -232,7 +233,6 @@ Do not disrespect or impede on their moderation duties. Public channels are not 
 - **If a Moderator or bot tells you to stop doing something, stop it.**
 
 If the bot posts a public warning, immediately cease the rule violation or change the topic of discussion back to the channel's intended purpose. 
-A punishment will be placed immediately should you ignore the warning.
 
 
 - **Evading mutes make them permanent. Automatically.**
