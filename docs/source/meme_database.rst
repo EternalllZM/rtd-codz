@@ -15,6 +15,9 @@ Kindertown
 This meme was coined by account **memelord56** who asked in the #lfg-vanguard channel, "whwers the power on kindertown" (exact phrase). 
 This meme is iconic for it not only being the worst butchering of Kino Der Toten, presumably by a phone's autocorrect; but also being in the Vanguard channel.
 
+
+Also expands into other common butcherings via autocorrect such as \"Organs\" (Origins), \"Mike town\" (Nuketown)
+
 WaW Elitist
 ------------
 
@@ -78,6 +81,15 @@ A (now removed) server sticker that showed a `cropped GIF of Frank Woods perform
 It is still used as a phrase to refer to the act being shown in the GIF.
 
 .. _`cropped GIF of Frank Woods performing fellatio`: https://tenor.com/view/cod-call-of-duty-woods-black-ops-cold-war-gif-22376530
+
+PHD and Mule kick invented by Cold War
+------------
+
+A joke regarding the (unoriginality of the perks) release of Mule Kick (and later PhD) into Black Ops Cold War where players would say it is the \"new perk\" despite originating in Black Ops 1. 
+Obviously, everyone knows it is not new, but the joke is to claim it is from Cold War as barely anything is original in that game.
+
+    .. image::  /.resources/media/mdb-mule_kick.png
+        :alt: Mule kick... brand new!
 
 The PPSH was never in BO1
 ------------
@@ -143,9 +155,10 @@ Many `great memes`_ have `been made`_ in reference to this tier list.
 what zombies maps are in waw
 ------------
 
-A commonly referenced `image from a Google search`_ showing the maps \"Kino Der Toten, Gorod Krovi, Shangri-La, and Die Rise\" being maps available in World at War.
+A commonly referenced image from a Google search showing the maps \"Kino Der Toten, Gorod Krovi, Shangri-La, and Die Rise\" being available in World at War.
 
-.. _`image from a Google search`: https://cdn.discordapp.com/attachments/771083456351830046/863868844883705916/unknown.png
+    .. image::  /.resources/media/mdb-world_at_war_maps.png
+        :alt: Die rise as a world at war map... lol!
 
 Salt's Moon flop
 ------------
