@@ -19,6 +19,8 @@ This meme is iconic for it not only being the worst butchering of Kino Der Toten
 
 Also expands into other common butcherings via autocorrect such as \"Organs\" (Origins), \"Mike town\" (Nuketown)
 
+    .. image::  /media/mdb-kindertown.png
+
 WaW Elitist
 ------------
 
@@ -41,31 +43,32 @@ It is used as an inside joke to refer to the Staff team with many `memes and gif
 
 A meme based off an LFG post made by **[VSM] Major Marquis** which included an unnecessary amount of emotes and hilarious phrases such as \"NO EU\".
 
-🧟‍♂️Zombies 🧟‍♀️ EE    MDT
+::
+    🧟‍♂️Zombies 🧟‍♀️ EE    MDT
 
-🗽English w/mic🎙
+    🗽English w/mic🎙
 
-🇨🇦North American server only🇺🇸
+    🇨🇦North American server only🇺🇸
 
-📡Comms🎧
+    📡Comms🎧
 
-❄️Be Chill 🆒
+    ❄️Be Chill 🆒
 
-🚫No kids👶
+    🚫No kids👶
 
-💦No tryhard🤪
+    💦No tryhard🤪
 
-😡No rage quitters🤬
+    😡No rage quitters🤬
 
-🚫No crybabies 😢
+    🚫No crybabies 😢
 
-💥Shoot em up🔫
+    💥Shoot em up🔫
 
-🌟FUN🎊
+    🌟FUN🎊
 
-🚫 CROSSPLAY DONT MATTER ‼️
+    🚫 CROSSPLAY DONT MATTER ‼️
 
-🚫NO EU🚫
+    🚫NO EU🚫
 
 BO4 underrated
 ------------
@@ -104,6 +107,16 @@ Barn
 A mistake in reference to the map Farm. However, the joke was taken further (as usual) and the funny part is trying to convince other members the map was always called Barn and not Farm. 
 Many `hilarious memes`_ have been spawned from this pseudo-gaslight.
 
+First instance of \"Barn\" being used to reference Farm.
+
+    .. image::  /media/mdb-map_barn.png
+        :alt: Barn > Farm
+
+\"Barn\" becoming a meme within the community.
+
+    .. image::  /media/mdb-map_barn2.png
+        :alt: Barn > Farm
+
 .. _`hilarious memes`: https://cdn.discordapp.com/attachments/925838630595993660/983879620426350674/Videoleap-BE8B3411-C822-41A4-A55D-A0536A792A05.mov
 
 Dragon Cog
@@ -136,10 +149,17 @@ How do I talk in #zombies-discussion
 What new members say whenever they join the server and refuse to read anything, wondering why the #zombies-discussion channel is locked to them. 
 Usually, the bot will auto-respond for them to read the channel description. If not, an annoyed Staff or regular member will tell them to do so.
 
+    .. image::  /media/mdb-zombies_discussion.png
+        :alt: How do you talk in zombies discussion?
+
 BO3 Kino is the hardest map of all time
 ------------
 
 A message sent by **Sandblock** into #zombies-discussion where when asked about why, responded with, \"idk\". When BO3 kino is brought up, members will jokingly say it's the hardest map of all time.
+
+    .. image::  /media/mdb-kino_hardest_map.png
+
+    .. image::  /media/mdb-kino_hardest_map2.png
 
 raspperz tier list
 ------------
@@ -158,7 +178,7 @@ what zombies maps are in waw
 
 A commonly referenced image from a Google search showing the maps \"Kino Der Toten, Gorod Krovi, Shangri-La, and Die Rise\" being available in World at War.
 
-    .. image::  media/mdb-world_at_war_maps.png
+    .. image::  /media/mdb-world_at_war_maps.png
         :alt: Die rise as a world at war map... lol!
 
 Salt's Moon flop
@@ -174,6 +194,8 @@ MP servers are not as toxic
 
 Comment made by a (now deleted) user who when their opinion was disagreed with by the entire channel, proceeded to say, \"I think I should go join mp servers they're not as toxic\". 
 
+    .. image::  /media/mdb-mp_not_toxic.png
+
 !origins
 ------------
 
@@ -187,3 +209,5 @@ Monkey Bomb Glitch
 
 A cold war exploit in 2020 that plagued the server and the (lack of at the time) moderators in handling the sheer amount of exploiting. 
 Every few messages someone would be asking to \"monkey bomb glitch\" so much that an auto-reaction with a man throwing trash at their message was made. 
+
+    .. image::  /media/mdb-monkey_bomb_glitch.png
