@@ -17,7 +17,7 @@ Appeal Guidelines
 Do you understand why you were banned? Maybe you already know why and would still like to better understand. What you should do first before anything else is 
 `research your ban reason on the global server rules documentation page`_. That way you are fully aware of all the information surrounding your ban reason.
 
-.. _`research your ban on the global server rules documentation page`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
+.. _`research your ban reason on the global server rules documentation page`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
 
 2. **Take responsibility for your actions.**
 
@@ -27,7 +27,7 @@ At the end of the day, you posted it into ours and were banned. That being said,
 
 \"I did not read the rules when I joined.\"
 ::
-    This is entirely your responsibility and additionally asked of you to do when you join.
+    This is entirely your responsibility and additionally asked of you to do when you joined.
 
 \"I do not know the reason why I was banned.\"
 ::
@@ -44,7 +44,7 @@ At the end of the day, you posted it into ours and were banned. That being said,
 3. **Be respectful during your appeal**
 
 Simply, we ask that you be respectful during your appeal. The Call of Duty Zombies Staff make their moderations to the best of their ability. 
-We try to work with everyone who seems genuinely remourseful for breaking the rules, does not tell a lie, or make excuses to absolve responsibility of their actions.
+We try to work with everyone who seems genuinely remourseful for breaking the rules, does not tell a lie, or make excuses in attempt to absolve responsibility of their actions.
 
 How to Create your Appeal
 -------------------------
