@@ -25,17 +25,17 @@ Your account, as well as the messages and content posted by it, are **your respo
 Make any excuse you want regarding how someone else was using your account, you meant to paste the message into another server, etc. 
 At the end of the day, you posted it into ours and were banned. That being said, please do not use low effort excuses that are constantly used such as the ones below.
 
-\"I did not read the rules when I joined.\" \n
+\"I did not read the rules when I joined.\"
 ::
-    This is entirely your responsibility to do.
+    This is entirely your responsibility and additionally asked of you to do when you join.
 
-\"I do not know the reason why I was banned.\" \n
+\"I do not know the reason why I was banned.\"
 ::
-    You are linked to the entire rules above.
+    You are linked to the entire list of rules above. They are also on the side bar. There is no excuse.
 
 \"I meant to send that to a friend.\"
 ::
-    You had all the time in the world to review what you pasted into chat, and sent.
+    You had all the time in the world to review what you pasted into chat, and proceeded to send.
 
 \"I should have received a verbal warning before being banned.\"
 ::
