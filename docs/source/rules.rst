@@ -12,6 +12,10 @@ Overview
 .. tip::
     :ref:`Use the menu navigation to quickly jump to a specific rule.`
 
+.. warning::
+    :ref:`You are fully responsible for the security of the account and messages posted by it. 
+    It does not matter who was using the account at the time or whether you meant to post said copy-pasted content in another server, you posted it in ours.`
+
 - **There are no loopholes in these rules.**
 
 No, you did not find a loophole. The Staff team will punish at discretion line-treading rule violations.
