@@ -2,8 +2,6 @@
 Modmail Guide
 =====
 
-.. _installation:
-
 Overview
 ------------
 .. important::

@@ -2,8 +2,6 @@
 Privacy Policy
 =====
 
-.. _installation:
-
 Bot Policy
 ------------
 .. important::

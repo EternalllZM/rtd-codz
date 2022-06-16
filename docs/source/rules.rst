@@ -2,8 +2,6 @@
 Global Server Rules
 =====
 
-.. _installation:
-
 Overview
 ------------
 .. important::
