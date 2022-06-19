@@ -133,6 +133,11 @@ Rule 4 - No Spamming or Off-Topic Content
 Do not look for groups outside of the \"Looking for Group\" category. Similarly, do not hold discussions outside of the \"Discussion\" category.
 
 
+- **Do not spam multiple channels**
+
+Keep your LFG request (or message in general) to the relevant channel only.
+
+
 - **Do not post GIFs.**
 
 GIFs are extremely distracting and divert attention away from those looking for groups.
