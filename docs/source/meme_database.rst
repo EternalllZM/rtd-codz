@@ -6,9 +6,8 @@ Meme Database
 
 Overview
 ------------
-.. important::
-    
-    `This page serves to act as a database for the inside jokes of the server.`
+.. important::    
+    :ref:`This page serves to act as a database for the inside jokes of the server.`
 
 Kindertown
 ------------
