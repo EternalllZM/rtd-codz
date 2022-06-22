@@ -5,23 +5,24 @@ Global Server Rules
 Overview
 ------------
 .. important::
-    :ref:`The intent of these rules are to ensure members are LFGing in an ad, drama, and cheat free environment. They assist in fostering a comfortable and healthy community for all who are willing to abide by them.`
+    :ref:`The intent of these rules are to ensure members are LFGing in an ad, drama, and cheat free environment. 
+    They assist in fostering a comfortable and healthy community for all who are willing to abide by them.`
 
 .. tip::
     :ref:`Use the menu navigation to quickly jump to a specific rule.`
 
 .. warning::
-    :ref:`You are fully responsible for the security of the account and messages posted by it. 
-    It does not matter who was using the account at the time or whether you meant to post said content in a different server, you posted it in ours.`
+    :ref:`Any punishments added to an account will remain regardless of who was using the account at the time the infraction occurred. 
+    Ultimately, the use and security of your Discord account are your responsibility.`
 
 - **There are no loopholes in these rules.**
 
-No, you did not find a loophole. The Staff team will punish at discretion line-treading rule violations.
+Staff will punish at discretion line-treading rule violations.
 
 
 - **English only for all communications.**
 
-Please only use the English language on our server. This is done so we can support our users properly and efficiently.
+Please only use the English language on our server so we can support our users properly.
 
 
 - **Do not bait others into breaking the rules.**
@@ -33,23 +34,21 @@ Do not craft messages with the intent to bait another member into breaking the r
 
 If you are not in a moderator position, report the content to Modmail instead of attempting to enforce the rules on your own.
 
-.. note::
-    :ref:`Apply for Staff if you wish to enforce rules and be part of our team.`
 
 - **You may not appeal punishments on behalf of another user.**
 
-Those who are punished are given clear instructions for the next step post-moderation. Please do not appeal on their behalf, or your account may be punished as well.
+Your account may be punished if you are used as an \"appeal proxy\", bypassing proper appeal procedures.
 
 
 - **Contact Staff by DMing Modmail.**
 
-Please do not ping random Staff members when you have an issue. Instead, consider reaching out to Modmail with your concern or report. Thank you.
+Do not ping random Staff members when you have an issue. Instead, consider reaching out to Modmail with your concern or report. Thank you.
 
 
 Rule 1 - No Advertising, Self Promotion, or Begging
 ------------
 .. important::
-    :ref:`Simply, we ask that you respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.`
+    :ref:`Respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.`
 
 - **Begging of any form for anything is not allowed.**
 
@@ -61,7 +60,7 @@ You are to not beg for money, games, DLC packs, microtransactions, liquid divini
 This is not a marketplace. You may not sell or trade your account, mods, or do anything involving a monetary transaction.
 
 .. warning::
-    :ref:`Selling and/or trading accounts is also against ATVI terms of service, and the ToS of other platforms such as Steam, Xbox, PSN, etc.`
+    :ref:`Selling and/or trading accounts is also against Activision Terms of Service, and the ToS of other platforms such as Steam, Xbox, PSN, etc.`
 
 - **No community or clan recruitments.**
 
@@ -75,12 +74,12 @@ You may not invite others to another Discord community that is not ours.
 
 - **DM Modmail about advertising.**
 
-All requests for advertising should be processed through Modmail before posting. This includes self promotional YouTube videos, mod showcases, etc.
+All requests for advertising or self-promotion should be processed through Modmail before posting.
 
 
-- **Content goes in #zombies-streams.**
+- **Zombies stream content goes in #zombies-streams.**
 
-Ensure that your zombies related streams and videos go into this channel and does not leak into other channels.
+Ensure that your zombies related streams and videos go into this channel only.
 
 
 Rule 2 - No NSFW or Disruptive Content
@@ -90,7 +89,7 @@ Rule 2 - No NSFW or Disruptive Content
 
 - **Includes profile, username, text, emotes, and voice chats.**
 
-Please do not put anything NSFW or explicit on anything that is associated with you such as profile pictures, statuses, messages sent that include emotes, stickers, etc.
+Please do not put anything NSFW, explicit, or suggestive on anything that is associated with you such as profile pictures and statuses. Includes messages sent that include external emotes, stickers, etc.
 
 
 - **Suggestive content reviewed at moderator's discretion.**
@@ -100,7 +99,10 @@ The Moderator who first sees explicit or suggestive content will moderate it at 
 
 - **Trolling discussion channels is not allowed.**
 
-Not only is this disruptive, it is specifically not allowed in the channel description of the discussion channels. Please take it somewhere else not in the server.
+This very disruptive content does not belong anywhere in the server.
+
+.. note::
+    :ref:`Trolling is measured at moderator's discretion to deem it malicious or not.`
 
 
 Rule 3 - No Disrespect or Drama
@@ -115,12 +117,14 @@ Do not insult others by name calling, reply pinging when users ask you to stop, 
 
 - **Keep arguments out of the server.**
 
-Do not argue in public channels or cause drama. Both users (no matter who started) will be punished should this occur.
+Do not argue in public channels or cause drama.
 
+.. note::
+    :ref:`Both users (no matter who started) will be punished should this occur.`
 
 - **DM Modmail to report users.**
 
-Direct message Modmail that you are being insulted/harrassed instead of trying to \"fight back\". It will save everyone time in resolving the issue.
+Direct message Modmail that you are being insulted/harrassed instead of trying to \"fight back\".
 
 
 Rule 4 - No Spamming or Off-Topic Content
@@ -132,6 +136,8 @@ Rule 4 - No Spamming or Off-Topic Content
 
 Do not look for groups outside of the \"Looking for Group\" category. Similarly, do not hold discussions outside of the \"Discussion\" category.
 
+.. note::
+    :ref:`Only very minimal discussion is allowed in an LFG channel such as discussing what map you want to play, strategy overview, etc.`
 
 - **Do not spam multiple channels**
 
@@ -150,7 +156,7 @@ Ensure contributions are appropriate for each channel by reading their descripti
 
 - **Includes pings, caps, and emote spam.**
 
-Please do not spam ping users or attempt to ping a large amount of users, unnecessarily use many caps, or spam a ridiculous amount of emotes.
+Please do not spam ping users or attempt to ping a large amount of users, unnecessarily use many caps, or spam a large amount of emotes.
 
 
 - **LFG (looking for group) should only be posted in LFG channels.**
@@ -161,7 +167,7 @@ Please do not look for groups or games anywhere outside of the dedicated LFG cha
 Rule 5 - No Piracy or Gamesharing
 ------------
 .. important::
-    :ref:`Do not (violate U.S. law) commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
+    :ref:`Do not commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
 .. warning::
     :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the Copyright Infringement Act applies to our server. By breaching the piracy-related rules below, you are 
@@ -175,10 +181,10 @@ Do not discuss, advocate that someone perform, or jokingly hint that someone sho
 
 - **Plutonium is only allowed if you own the game legally.**
  
-You may not use any game copies other than Steam or a CD/DVD to look for groups using the Plutonium launcher.
+You may not use anything other than a legal Steam or a CD/DVD copy in tandem with Plutonium to look for groups using the launcher.
 
 .. warning::
-    :ref:`If you obtained the game for free in any way outside of being legally gifted, you likely have committed piracy.`
+    :ref:`If you obtained the game for free in any way outside of being gifted, you likely have committed piracy.`
 
 .. note::
     :ref:`Plutonium when used with a valid purchased Steam copy of the game is legal and may be used to LFG.`
@@ -187,7 +193,6 @@ You may not use any game copies other than Steam or a CD/DVD to look for groups 
 - **Clients not Steam, Battle.net, or Plutonium are not allowed.**
 
 Includes RektT5, IW6x, and all others under this scope.
-
 
 - **Do not ask for others to gameshare with you.**
 
@@ -199,8 +204,8 @@ Do not ask that others compromise their account and security because you do not 
 .. note::
     :ref:`Gamesharing is a feature meant for friends and family, not random members of a Discord server.`
 
-.. warning::
-    :ref:`Somebody hacking on a gameshared DLC or the game itself can get your account banned instead of theirs if you were sharing the content with them.`
+.. tip::
+    :ref:`Someone hacking on gameshared content you provided can result in your account getting banned instead of theirs.`
 
 Rule 6 - No Voice Communication Abuse
 ------------
@@ -209,19 +214,19 @@ Rule 6 - No Voice Communication Abuse
 
 - **Do not be annoying, loud, or use soundboards.**
 
-Annoying is subjective. Though if multiple people are asking you to stop or not do something, take the hint. Do not use soundboards unless everyone in the voice chat consents.
+Annoying is subjective. Though if multiple people are asking you to stop or not do something, please cease doing that action. Do not use soundboards unless everyone in the voice chat consents.
 
 .. tip::
     :ref:`If you frequent voice channels, it is a good idea to use recording software alongside the Discord overlay to properly catch and report voice channel abusers.`
 
 -  **Please be respectful to others when in voice.**
 
-There is no reason to be unreasonably rude or bully others in voice chat sessions.
+There is no reason to be rude or bully others in voice chat.
 
 
 -  **Do not abuse music bots or play loud sounds/suggestive content.**
 
-Please be respectful of the bots and those listening by not playing obnoxious content or loud sounds (*commonly referred to as earrape*).
+Please be respectful of the bots and those listening by not playing obnoxious content or loud sounds (commonly referred to as *earrape*).
 
 
 Rule 7 - No Staff Disrespect or Punishment Evasion
@@ -231,7 +236,7 @@ Rule 7 - No Staff Disrespect or Punishment Evasion
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
-The Staff uphold and enforce the server rules, which means they sometimes must moderate or call out rule breaking behavior publicly. 
+The Staff uphold and enforce server rules, which means they sometimes must moderate or call out rule breaking behavior publicly. 
 Do not disrespect or impede on their moderation duties. Public channels are not the proper place to discuss or object to these.
 
 
@@ -248,7 +253,7 @@ Do not attempt to evade your mute, it will only make it permanent. We do not rem
 - **You may only have one account on the server.**
 
 Please do not join with an alternate account onto the server or use one to evade a punishment. 
-If you have a legitimate reason to join with an alternate account, please contact Modmail in order to get it approved.
+If you have a legitimate reason to join with another account, please contact Modmail immediately in order to get it approved.
 
 
 - **Do not imitate Staff in any way**
@@ -268,16 +273,16 @@ Rule 8 - No Cheating, Glitching, or Exploiting
 
 - **Includes asking for glitches, or discussion of any exploiting.**
 
-Any cheating, glitching, or exploit discussion on the server is strictly not allowed. 
-However, if it is discussion related and not malciously attempting to inform or distribute, it may be allowed (at Moderator discretion).
+Any malicious cheating, glitching, or exploit discussion on the server is strictly not allowed. 
 
 .. note::
-    :ref:`For example, you may discuss the Jet Gun knifing glitch or how to remove George Romero's lightning shock as legitimate strategies. 
+    :ref:`If it is discussion related and not malciously attempting to inform or distribute, it may be allowed (at Moderator discretion). 
+    For example, you may discuss the Jet Gun knifing glitch or how to remove George Romero's lightning shock as legitimate strategies. 
     You may not, however, distribute how to godmode, unlock all, noclip into out of map areas, etc.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
-Do not offer or sell mods to people in public channels or through DMs.
+Do not offer or sell cheats, hacks, or menus to others in public channels or through DMs.
 
 .. note::
     :ref:`Discord ToS states to not distribute or provide hacks, cheats, exploits that provide an unfair advantage. 
@@ -287,7 +292,7 @@ Do not offer or sell mods to people in public channels or through DMs.
 Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
 .. important::
-    :ref:`The TOS can be overwhelming. However, it is your responsibility to have read it when you signed up for the platform and to keep updated with it.`
+    :ref:`It is your responsibility to have read the Terms of Service when you signed up for the platform and to keep updated with it.`
 
 .. warning::
     :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
@@ -307,7 +312,7 @@ Channel Rules
 
 - **Please keep discussion to a bare minimum.**
 
-Discussion is held within **#zombies-discussion**. Please do not hold in-depth discussions outside of things like what map you are going to play in LFG channels.
+Discussion is held within **#zombies-discussion**. Please do not hold in-depth discussions outside of things like what map or strategy you are going to play in LFG channels.
 
 
 - **Do not LFG for any other games besides Call of Duty Zombies.**
@@ -345,7 +350,7 @@ The !topic command is available when discussion is dissipating. Please be respec
 
 - **Please maintain a serious discussion at all times.**
 
-On-topic and tasteful jokes may be used, but keep to a minimum please.
+On-topic and tasteful jokes may be used, but kept to a minimum please.
 
 #memes
 ------------
@@ -359,7 +364,7 @@ We do not support or allow anything that resembles propaganda or posts of extrem
 
 - **Do not post content related to gore, death, abuse, violence, etc.**
 
-Do we even have to ask?
+Seriously, do not do this.
 
 
 - **Promotion of illegal behavior such as illicit drugs, piracy, etc.**
