@@ -5,23 +5,23 @@ Appeal Guide
 Appeal Guidelines
 -----------------
 
-.. note::
-    :ref:`You only get **one chance** to appeal and come back to the main server. Do not skim over any information, read it in full to make a proper appeal.`
+.. important::
+    :ref:`You only get one chance to appeal and come back to the main server. You should read and understand everything on this page before making your appeal.`
 
 1. **Be aware of your punishment reason.**
 
 `Research your ban reason on the global server rules documentation page`_. 
-That way you are fully aware of all the information surrounding your ban reason.
+You should be fully aware of all the information surrounding your ban reason.
 
 .. _`Research your ban reason on the global server rules documentation page`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
 
 2. **Take responsibility for your actions.**
 
-Ultimately, the use and security of your Discord account are your responsibility.
+The use and security of your Discord account are your responsibility.
 
 3. **Be respectful during your appeal**
 
-Staff make their moderations to the best of their ability with the information provided. Do not lie or be disrespectful to them.
+Staff make their moderations to the best of their ability. Do not lie or be disrespectful to them.
 
 Create your Appeal
 -------------------------
@@ -41,11 +41,11 @@ Using the `global rules documentation`_, describe your punishment and what exact
 
 3. **Remediation**
 
-Tell us how you are going to change your behavior and not repeat this offense, or any other rule-breaking behavior.
+Tell us how you plan to not repeat this offense, or perform any other rule-breaking behavior moving forward.
 
 4. **Other Information**
 
-Tell us any other information you'd like us to know. You are not required to give us any further information.
+Tell us any other information you'd like us to know. You are not required to provide any further information.
 
 5. **Appeal Finished**
 
