@@ -2,53 +2,46 @@
 Appeal Guide
 =============
 
-Overview
---------
-.. important::
-    :ref:`This page is meant to serve as a guide in regards to creating your appeal. Please read all information before moving forward.`
-
-.. note::
-    :ref:`You only get one chance to appeal and come back. Do not skim over any information, read it in full.`
-
 Appeal Guidelines
 -----------------
 
+.. note::
+    :ref:`You only get **one chance** to appeal and come back to the main server. Do not skim over any information, read it in full to make a proper appeal.`
+
 1. **Be aware of your punishment reason.**
 
-What you should do first before anything else is `research your ban reason on the global server rules documentation page`_. 
+`Research your ban reason on the global server rules documentation page`_. 
 That way you are fully aware of all the information surrounding your ban reason.
 
-.. _`research your ban reason on the global server rules documentation page`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
+.. _`Research your ban reason on the global server rules documentation page`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
 
 2. **Take responsibility for your actions.**
 
-Any punishments added to an account will remain regardless of who was using the account at the time the infraction occurred. 
 Ultimately, the use and security of your Discord account are your responsibility.
 
 3. **Be respectful during your appeal**
 
-Staff make their moderations to the best of their ability with the information provided. 
-We try to work with everyone who seems genuinely remourseful for breaking the rules, do not lie to us, or make excuses in attempt to absolve responsibility of their actions.
+Staff make their moderations to the best of their ability with the information provided. Do not lie or be disrespectful to them.
 
 Create your Appeal
 -------------------------
 
 .. warning::
-    :ref:`Ensure you read all information above before creating an appeal. You will be immediately denied should you fail to follow the guidelines above, wasting your own time.`
+    :ref:`Ensure you read all information above before creating an appeal. You will be immediately denied should you fail to follow the guidelines above.`
 
-1. **How to begin your appeal**
+1. **Begin Appeal**
 
-To begin your appeal, type **!appeal** (nothing else) into the channel. The bot will send you a DM and ask a few questions regarding your punishment and other things.
+Type **!appeal** (nothing else) into the channel. The bot will send you a DM asking a few questions.
 
 2. **Reason**
 
-Using the information you read in the `global rules documentation`_, best describe your punishment and what exactly you did wrong. Should you have properly read and followed all the steps, this should be the easiest to do.
+Using the `global rules documentation`_, describe your punishment and what exactly you did wrong.
 
 .. _`global rules documentation`: https://rtd-codz.readthedocs.io/en/latest/rules.html#
 
 3. **Remediation**
 
-Tell us how you plan to change your behavior and not repeat this offense or any other rule-breaking behavior.
+Tell us how you are going to change your behavior and not repeat this offense, or any other rule-breaking behavior.
 
 4. **Other Information**
 
