@@ -2,6 +2,9 @@
 Server History
 ==============
 
+.. important::
+    :ref:`This list is by no means complete or contains the full history. It is a work in progress (WIP).`
+
 2017
 ----
 
@@ -15,16 +18,10 @@ Having only been on Discord for 4 months, seeks out a Zombies community on the p
 However, member count was slow to start and steadily increased.
 
 
+12/11/17 - megataco101 becomes Moderator in Call of Duty Zombies. *(Retired)*
+
+
 12/29/17 - Member count tracking welcoming bot was added, giving a view of server growth over time. After nearly 20 days of existance, the server had grown to 40 members.
-
-
-12/29/17 - Linkhan (former Moderator) joins the server.
-
-
-12/XX/17 - megataco101 (former Moderator) joins the server.
-
-
-12/XX/17 - CtsFly (former Moderator) joins the server.
 
 2018
 ----
@@ -37,7 +34,7 @@ However, member count was slow to start and steadily increased.
 
     • There are no platform roles, it is PC priority with consoles being an afterthought. 
 
-    • Linkhan becomes a Moderator for Call of Duty Zombies (Retired)
+    • Linkhan becomes a Moderator for Call of Duty Zombies *(Retired)*
 
     • Server now supports World at War LFG, eventually renaming itself sometime during this period to the now known "Call of Duty Zombies" Discord.
 
@@ -54,11 +51,14 @@ However, member count was slow to start and steadily increased.
 02/06/18 - Jim (former Moderator) joins the server.
 
 
+02/08/18 - Dyno implemented in server for moderation purposes.
+
+
 02/10/18 - 
 
     • Server reaches 200 members.
 
-    • Akkrona becomes Moderator in Call of Duty Zombies. (Retired)
+    • Akkrona becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 02/25/18 - Server reaches 300 members.
 
@@ -70,7 +70,10 @@ However, member count was slow to start and steadily increased.
 03/06/18 - Helper and Chat Mod system are established. Now known as Trial Mod and Moderator.
 
 
-03/09/18 - Midori becomes main welcoming bot. Customized background image for server welcomes.
+03/09/18 - Midori becomes main welcoming bot.
+
+
+03/15/18 - Zolo becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 
 03/15/18 - Server reaches 500 members.
@@ -79,7 +82,7 @@ However, member count was slow to start and steadily increased.
 03/16/18 - Activision fixes World at War profile creation, allowing players to create profiles again and LFG for World at War.
 
 
-03/29/18 - Jim becomes Moderator in Call of Duty Zombies (Retired)
+03/29/18 - Jim becomes Moderator in Call of Duty Zombies *(Retired)*
 
 - **April 2018**
 
@@ -98,6 +101,9 @@ However, member count was slow to start and steadily increased.
 - **Lost to time**
 
 XX/XX/18 - Black Ops III (3) added to supported games.
+
+
+XX/XX/18 - Akkrona becomes Administrator in Call of Duty Zombies.
 
 2019
 ----
@@ -128,7 +134,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 - **April 2020**
 
-• 04/19/20 - Spoob becomes Moderator in Call of Duty Zombies. (Retired)
+• 04/19/20 - Spoob becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 - **May 2020**
 
@@ -167,15 +173,24 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 11/17/20 - Server reaches 8000 members. Discord lowers Discovery requirements to servers with 7,500 members. Call of Duty Zombies lists on Server Discovery.
 
 
-11/18/20 - trxppie becomes Moderator in Call of Duty Zombies. (Retired)
+11/18/20 - trxppie becomes Moderator in Call of Duty Zombies. *(Retired)*
+
+
+11/20/20 - Kio becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 
 11/23/20 - Server reaches 9000 members.
 
 
+11/25/20 - Trimp becomes Moderator in Call of Duty Zombies.
+
+
 11/30/20 - Server reaches 10000 members.
 
 - **December 2020**
+
+12/14/20 - #zombies-discussion is locked due to too many LFG requests inside it.
+
 
 12/24/20 - On My Mind becomes Moderator in Call of Duty Zombies.
 
@@ -188,6 +203,9 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 - **February 2021**
 
 02/15/21 - First self-hosted Call of Duty Zombies bot brought onto server.
+
+
+12/24/21 - #zombies-discussion returns after hiatus.
 
 - **March 2021**
 
@@ -223,9 +241,15 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 06/01/21 - Server reaches 15000 members.
 
+
+06/27/21 - Chucky becomes Moderator in Call of Duty Zombies.
+
 - **July 2021**
 
 07/05/21 - Plutonium becomes allowed in the server as long as a legal game copy is used.
+
+
+07/05/21 - Saladina becomes Moderator in Call of Duty Zombies.
 
 
 07/09/21 - Salt becomes Moderator in Call of Duty Zombies.
@@ -258,18 +282,20 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 12/11/21 - Partnership with `Zombacus`_ formed.
 
+.. _`Zombacus`:https://www.zombacus.com/
+
+12/13/21 - Tank Dempsey bot becomes quarantined fighting off a massive several thousand member bot raid.
+
+
+12/20/21 - Tank Dempsey decommissioned due to Discord's non-response (still no response). Edward Richtofen assumes all roles in place.
+
 
 12/25/20 - Oonaugh becomes Senior Moderator in Call of Duty Zombies.
-
-.. _`Zombacus`:https://www.zombacus.com/
 
 2022
 ----
 
 - **January 2022**
-
-01/XX/22 - A request for tons of more Staff are made heading into 2022. In total, 8 trials attempted becoming Moderators, only 3 became Moderators.
-
 
 01/07/22 - Ashryman becomes Moderator in Call of Duty Zombies.
 
@@ -332,14 +358,14 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
     • Supporter perks now properly tiered per amount contributed.
 
-05/10/22 - #adv-zombies-discussion is established for more serious conversations about Zombies.
+    • #adv-zombies-discussion is established for more serious conversations about Zombies.
 
 - **June 2022**
 
-06/08/22 - Member must now have a platform role to LFG within the server.
+06/08/22 - Members must now have a platform role to LFG within the server.
 
 
-06/13/22 - Documentation is made for the server.
+06/13/22 - Documentation (this site) is made for the server.
 
 
 06/15/22 - Nick becomes Moderator in Call of Duty Zombies.
