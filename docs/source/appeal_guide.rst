@@ -8,6 +8,9 @@ Appeal Guidelines
 .. important::
     :ref:`You only get one chance to appeal and come back to the main server. You should read and understand everything on this page before making your appeal.`
 
+.. warning::
+    :ref:`Do not DM Staff asking to be unbanned. Your appeal will be immediately denied should you do this.`
+
 1. **Be aware of your punishment reason.**
 
 `Research your ban reason on the global server rules documentation page`_. 
