@@ -30,7 +30,7 @@ However, member count was slow to start and steadily increased.
 
 01/15/18 - 
 
-    • Self added roles implemented are added. The roles at this point are the DLC names. 
+    • Self added roles implemented. The roles at this point are the DLC names. 
 
     • There are no platform roles, it is PC priority with consoles being an afterthought. 
 
@@ -149,7 +149,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 - **July 2020** 
 
-07/07/20 - Colden becomes a Moderator for Call of Duty Zombies.
+07/07/20 - Colden becomes Moderator for Call of Duty Zombies.
 
 - **August 2020**
 
@@ -269,7 +269,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 11/30/21 - 
 
-    • Akkrona steps down from Community Manager.
+    • Akkrona steps down to Moderator.
 
     • Devour becomes Community Manager in Call of Duty Zombies.
 
@@ -282,7 +282,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 12/11/21 - Partnership with `Zombacus`_ formed.
 
-.. _`Zombacus`:https://www.zombacus.com/
+.. _`Zombacus`: https://www.zombacus.com/
 
 12/13/21 - Tank Dempsey bot becomes quarantined fighting off a massive several thousand member bot raid.
 
