@@ -6,7 +6,7 @@ Server History
     :ref:`This list is by no means complete or contains the full history. It is a work in progress (WIP).`
 
 2017
-----
+-----------------
 
 - **December 2017**
 
@@ -31,7 +31,7 @@ DEC 29 -
     • World at War LFG created.
 
 2018
-----
+-----------------
 
 - **January 2018**
 
@@ -111,7 +111,7 @@ OCT 27 - Server reaches 1000 members.
     :ref:`While 1000 members is a milestone achievement. The server had serious issues with retention rates leading to only 215 members joining and staying throughout the rest of 2018.`
 
 2019
-----
+-----------------
 
 - **May 2019**
 
@@ -133,7 +133,7 @@ OCT 22 -
     • #zombies general chat removed.
 
 2020
-----
+-----------------
 
 - **February 2020**
 
@@ -210,7 +210,7 @@ DEC 14 - #zombies-discussion is locked due to too many LFG requests inside it.
 DEC 24 - On My Mind becomes Moderator in Call of Duty Zombies.
 
 2021
-----
+-----------------
 - **January 2021**
 
 JAN 23 - 
@@ -321,7 +321,7 @@ DEC 20 - Tank Dempsey decommissioned due to Discord's non-response (still no res
 DEC 25 - Oonaugh becomes Senior Moderator in Call of Duty Zombies.
 
 2022
-----
+-----------------
 
 - **January 2022**
 
