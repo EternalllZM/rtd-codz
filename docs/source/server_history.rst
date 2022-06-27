@@ -18,10 +18,17 @@ Having only been on Discord for 4 months, seeks out a Zombies community on the p
 However, member count was slow to start and steadily increased.
 
 
-12/11/17 - megataco101 becomes Moderator in Call of Duty Zombies. *(Retired)*
+12/11/17 - 
 
+    • megataco101 becomes Moderator in Call of Duty Zombies. *(Retired)*
 
-12/29/17 - Member count tracking welcoming bot was added, giving a view of server growth over time. After nearly 20 days of existance, the server had grown to 40 members.
+    • Call of Duty Zombies leaderboard established.
+
+12/29/17 - 
+
+    • Welcoming bot added.
+
+    • World at War LFG created.
 
 2018
 ----
@@ -36,7 +43,10 @@ However, member count was slow to start and steadily increased.
 
     • Linkhan becomes a Moderator for Call of Duty Zombies *(Retired)*
 
-    • Server now supports World at War LFG, eventually renaming itself sometime during this period to the now known "Call of Duty Zombies" Discord.
+    • Server renamed to "Call of Duty Zombies".
+
+01/17/18 - #zombies channel established as a general chat.
+
 
 01/18/18 - Server reaches 100 members.
 
@@ -52,6 +62,8 @@ However, member count was slow to start and steadily increased.
 
     • Server reaches 200 members.
 
+    • Black Ops III (3) added to supported games.
+
     • Akkrona becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 02/25/18 - Server reaches 300 members.
@@ -62,6 +74,9 @@ However, member count was slow to start and steadily increased.
 
 
 03/06/18 - Helper and Chat Mod system are established. Now known as Trial Mod and Moderator.
+
+
+03/09/18 - Black Ops 4 channel added to discuss the game before release.
 
 
 03/09/18 - Midori becomes main welcoming bot.
@@ -106,10 +121,20 @@ A hard stop to the growth of the server.
 
 - **October 2019**
 
-10/22/19 - Server reaches 2000 members. LFG category and corresponding game channels are returned to the server.
+10/22/19 - 
+
+    • Server reaches 2000 members. 
+    
+    • LFG category and corresponding game channels are returned to the server.
+
+    • #zombies general chat removed.
 
 2020
 ----
+
+- **February 2020**
+
+02/12/20 - Original 2017 leaderboards removed.
 
 - **March 2020**
 
@@ -308,7 +333,7 @@ A hard stop to the growth of the server.
 01/21/22 - Zenith becomes Moderator in Call of Duty Zombies.
 
 
-01/22/22 - Deprecation of server record leaderboard is announced.
+01/22/22 - Deprecation of second server record leaderboard is announced.
 
 - **February 2022**
 
