@@ -40,15 +40,9 @@ However, member count was slow to start and steadily increased.
 
 01/18/18 - Server reaches 100 members.
 
-
-01/22/18 - ZOLO (former Moderator) joins the server.
-
 - **Febuary 2018**
 
 02/05/18 - Black Ops II (2) is added as a supported game, expanding the amount of channels and LFG potential. Sometime during this period, World at War profile creation is broken (for the first time).
-
-
-02/06/18 - Jim (former Moderator) joins the server.
 
 
 02/08/18 - Dyno implemented in server for moderation purposes.
@@ -98,20 +92,13 @@ However, member count was slow to start and steadily increased.
 .. note::
     :ref:`While 1000 members is a milestone achievement. The server had serious issues with retention rates leading to only 215 members joining and staying throughout the rest of 2018.`
 
-- **Lost to time**
-
-XX/XX/18 - Black Ops III (3) added to supported games.
-
-
-XX/XX/18 - Akkrona becomes Administrator in Call of Duty Zombies.
-
 2019
 ----
 
 - **May 2019**
 
-05/05/19 - Discouraged by lack of member growth and burnt out from Zombies and Discord in general, the individual LFG channels are nuked and only one #zombies channel remains for all LFGs. 
-This decision put a hard stop to the growth of the server and was exponentiated by Eternalll's IRL obligations to a newfound career.
+05/05/19 - Eternalll burns out from Discord and Zombies. Individual LFG channels are nuked and only one #zombies channel remains for all LFGs. 
+A hard stop to the growth of the server.
 
 - **June 2019**
 
@@ -142,7 +129,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 - **June 2020** 
 
-• 06/13/20 - Server reaches 5000 members. 
+• 06/13/20 - Server reaches 5000 members.
 
 .. note::
     :ref:`Unfortunately this milestone was made due to bots. The bots were purged and the legitimate milestone was made a day later.`
@@ -179,7 +166,7 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 11/20/20 - Kio becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 
-11/23/20 - Server reaches 9000 members.
+11/23/20 - Server reaches 9000 members. 
 
 
 11/25/20 - Trimp becomes Moderator in Call of Duty Zombies.
@@ -198,6 +185,9 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 ----
 - **January 2021**
 
+01/23/21 - Colden becomes Senior Moderator in Call of Duty Zombies
+
+
 01/23/21 - Devour becomes Moderator in Call of Duty Zombies
 
 - **February 2021**
@@ -205,7 +195,13 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 02/15/21 - First self-hosted Call of Duty Zombies bot brought onto server.
 
 
-12/24/21 - #zombies-discussion returns after hiatus.
+02/22/21 - Appeal server is established for those appealing permanent bans.
+
+
+02/24/21 - #zombies-discussion returns after hiatus.
+
+
+02/27/21 - Community Guide system is established. Bringing Staff and the active community closer together.
 
 - **March 2021**
 
@@ -217,6 +213,9 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 
 
 04/07/21 - zombies trivia written and implemented. #trivia channel established.
+
+
+04/08/21 - #nsfw channel removed.
 
 
 04/19/21 - Tank Dempsey Bot implemented. All public utility bots removed (including Auttaja). All bots are brought in house and self-hosted.
@@ -365,8 +364,11 @@ This decision put a hard stop to the growth of the server and was exponentiated 
 06/08/22 - Members must now have a platform role to LFG within the server.
 
 
-06/13/22 - Documentation (this site) is made for the server.
+06/13/22 - 
 
+    • Ashryman becomes Administrator in Call of Duty Zombies.
+
+    • Documentation (this site) is made for the server.
 
 06/15/22 - Nick becomes Moderator in Call of Duty Zombies.
 
