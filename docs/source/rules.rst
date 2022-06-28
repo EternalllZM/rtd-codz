@@ -196,8 +196,44 @@ Includes RektT5, IW6x, and all others under this scope.
 
 - **Do not ask for others to gameshare with you.**
 
-Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for Discord and every online digital marketplace (Steam, Xbox, PSN, etc.). 
+Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for every online digital marketplace (Steam, Xbox, PSN, etc.). 
 Do not ask that others compromise their account and security because you do not want to purchase the content yourself.
+
+    • It's against the terms of use. If caught sharing your login info, you'll be permanently suspended.
+
+    • If your billing information is on the account, the other person can use your credit card to buy lots of stuff.
+
+    • You're responsible for everything that happens on your account.
+
+    • Is your email attached to your account? They can read it. Use that email/password for any other site? They can get into it.
+
+    • If they decide to change your password, you might be out of luck in ever recovering it.
+
+`Microsoft Services Agreement`_
+
+
+\"You cannot transfer your Microsoft account credentials to another user or entity. 
+To protect your account, keep your account details and password confidential. 
+You are responsible for all activity that occurs under your Microsoft account.\"
+
+`Playstation Network Terms of Service`_
+
+
+\"5.9. Do not share, buy, sell, rent, sub-license, trade, transfer, phish for or harvest any accounts, account details, or other account credentials.\"
+
+`Steam Subscriber Agreement`_
+
+
+\"You are responsible for the confidentiality of your login and password and for the security of your computer system. 
+Valve is not responsible for the use of your password and Account or for all of the communication and activity on Steam that results from use of your 
+login name and password by you, or by any person to whom you may have intentionally or by negligence disclosed your login and/or password in violation 
+of this confidentiality provision.\"
+
+.. _`Steam Subscriber Agreement`: https://store.steampowered.com/subscriber_agreement/
+
+.. _`Playstation Network Terms of Service`: https://www.playstation.com/en-us/legal/psn-terms-of-service/
+
+.. _`Microsoft Services Agreement`: https://www.microsoft.com/en-US/servicesagreement
 
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
@@ -205,7 +241,7 @@ Do not ask that others compromise their account and security because you do not 
     :ref:`Gamesharing is a feature meant for friends and family, not random members of a Discord server.`
 
 .. tip::
-    :ref:`Someone hacking on gameshared content you provided can result in your account getting banned instead of theirs.`
+    :ref:`Should the other person use your account to break the Code of Conduct, your account can be suspended and there's nothing you can do about it.`
 
 Rule 6 - No Voice Communication Abuse
 ------------
