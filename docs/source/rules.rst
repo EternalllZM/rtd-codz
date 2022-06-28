@@ -197,17 +197,17 @@ Includes RektT5, IW6x, and all others under this scope.
 - **Do not ask for others to gameshare with you.**
 
 Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for every online digital marketplace (Steam, Xbox, PSN, etc.). 
-Do not ask that others compromise their account and security because you do not want to purchase the content yourself.
+Do not ask that others compromise their account and security because you do not want to purchase the content yourself. 
 
-    • It's against the terms of use. If caught sharing your login info, you'll be permanently suspended.
+    • If caught sharing your login info, you'll be permanently suspended.
 
-    • If your billing information is on the account, the other person can use your credit card to buy lots of stuff.
+    • If billing information is on the account, the other person can use it to buy lots of stuff.
 
     • You're responsible for everything that happens on your account.
 
-    • Is your email attached to your account? They can read it. Use that email/password for any other site? They can get into it.
+    • Is your email attached to your account? They can read it. (Microsoft)
 
-    • If they decide to change your password, you might be out of luck in ever recovering it.
+    • If they change your password, good luck in ever recovering it.
 
 `Microsoft Services Agreement`_
 
@@ -238,7 +238,7 @@ of this confidentiality provision.\"
 .. _gameshare: https://www.makeuseof.com/tag/gameshare-xbox-one/
 
 .. note::
-    :ref:`Gamesharing is a feature meant for friends and family, not random members of a Discord server.`
+    :ref:`Gamesharing is a feature meant for use only with trusted friends and family, not random members of a Discord server.`
 
 .. tip::
     :ref:`Should the other person use your account to break the Code of Conduct, your account can be suspended and there's nothing you can do about it.`
@@ -272,7 +272,7 @@ Rule 7 - No Staff Disrespect or Punishment Evasion
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
-The Staff uphold and enforce server rules, which means they sometimes must moderate or call out rule breaking behavior publicly. 
+Staff are to uphold and enforce server rules, which means they sometimes must moderate or call out rule breaking behavior publicly. 
 Do not disrespect or impede on their moderation duties. Public channels are not the proper place to discuss or object to these.
 
 
