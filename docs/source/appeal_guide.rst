@@ -9,7 +9,7 @@ Appeal Guidelines
     :ref:`You only get one chance to appeal and come back to the main server. You should read and understand everything on this page before making your appeal.`
 
 .. warning::
-    :ref:`Do not DM Staff asking to be unbanned. Your appeal will be immediately denied should you do this.`
+    :ref:`Do not DM or friend request Staff for any reason. Your appeal will be immediately denied should you do this.`
 
 1. **Be aware of your punishment reason.**
 
@@ -25,6 +25,10 @@ The use and security of your Discord account are your responsibility.
 3. **Be respectful during your appeal**
 
 Staff make their moderations to the best of their ability. Do not lie or be disrespectful to them.
+
+3. **Do not make a lazy appeal**
+
+If you are going to write a few words and act nonchalant about the whole situation, do not even bother appealing.
 
 Create your Appeal
 -------------------------
