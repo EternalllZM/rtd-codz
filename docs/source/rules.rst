@@ -47,8 +47,8 @@ Do not ping random Staff members when you have an issue. Instead, consider reach
 
 Rule 1 - No Advertising, Self Promotion, or Begging
 ------------
-.. important::
-    :ref:`Respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.`
+
+Respect the Discord server by not selling anything or advertising other communities, projects, etc. without the consent of the Staff team.
 
 - **Begging of any form for anything is not allowed.**
 
@@ -84,8 +84,8 @@ Ensure that your zombies related streams and videos go into this channel only.
 
 Rule 2 - No NSFW or Disruptive Content
 ------------
-.. important::
-    :ref:`Please do not post NSFW or suggestive content. Do not intentionally post disruptive content that is likely to cause drama or arguments.`
+
+Please do not post NSFW or suggestive content. Do not intentionally post disruptive content that is likely to cause drama or arguments.
 
 - **Includes profile, username, text, emotes, and voice chats.**
 
@@ -107,8 +107,8 @@ This very disruptive content does not belong anywhere in the server.
 
 Rule 3 - No Disrespect or Drama
 ------------
-.. important::
-    :ref:`Please be respectful to others on the server and do not engage in drama or arguments in public channels.`
+
+Please be respectful to others on the server and do not engage in drama or arguments in public channels.
 
 - **Insulting others is not allowed.**
 
@@ -129,8 +129,8 @@ Direct message Modmail that you are being insulted/harrassed instead of trying t
 
 Rule 4 - No Spamming or Off-Topic Content
 ------------
-.. important::
-    :ref:`Do not spam pings, emotes, caps, or LFG messages. Likewise, please post content in the proper channels. (Use the channel descriptions)`
+
+Do not spam pings, emotes, caps, or LFG messages. Likewise, please post content in the proper channels. (Use the channel descriptions)
 
 - **Keep message content relevant to channel.**
 
@@ -166,18 +166,18 @@ Please do not look for groups or games anywhere outside of the dedicated LFG cha
 
 Rule 5 - No Piracy or Gamesharing
 ------------
-.. important::
-    :ref:`Do not commit, discuss, or hint at piracy. We take this as a serious offense. Similarly, do not ask randoms to violate TOS by asking others to gameshare with you.`
 
-.. warning::
-    :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the Copyright Infringement Act applies to our server. By breaching the piracy-related rules below, you are 
-    violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
+Do not commit, discuss, or hint at piracy. Similarly, do not ask randoms to violate platform ToS by asking others to gameshare with you.
 
 - **This includes discussion, advocation, jokes, or hinting.**
 
 Do not discuss, advocate that someone perform, or jokingly hint that someone should `commit the act of piracy`_.
 
 .. _commit the act of piracy: https://en.wikipedia.org/wiki/Copyright_infringement#%22Piracy%22
+
+.. warning::
+    :ref:`Discord (and by extension) our server are bound by U.S. law. Therefore the Copyright Infringement Act applies to our server. By breaching the piracy-related rules below, you are 
+    violating U.S. law and the Discord Terms of Service. There is a zero tolerance policy for this.`
 
 - **Plutonium is only allowed if you own the game legally.**
  
@@ -196,7 +196,7 @@ Includes RektT5, IW6x, and all others under this scope.
 
 - **Do not ask for others to gameshare with you.**
 
-Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for every online digital marketplace (Steam, Xbox, PSN, etc.). 
+Asking other members to gameshare_ (sometimes referred to as Family Share) with you against the Terms of Service for every online marketplace (see sources below). 
 Do not ask that others compromise their account and security because you do not want to purchase the content yourself. 
 
     • If caught sharing your login info, you'll be permanently suspended.
@@ -243,10 +243,14 @@ of this confidentiality provision.\"
 .. tip::
     :ref:`Should the other person use your account to break the Code of Conduct, your account can be suspended and there's nothing you can do about it.`
 
+.. warning::
+    :ref:`There is no reason you should ever be talking or discussing about gamesharing. Even if your content was gameshared legitimately with your friends or family, there is no reason to state this. 
+    If you have an issue with your game because of gamesharing, you may not ask for help with it in our community.`
+
 Rule 6 - No Voice Communication Abuse
 ------------
-.. important::
-    :ref:`We simply request that you act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.`
+
+Act appropriate and do not annoy or insult others (includes bot usage) when in a voice channel.
 
 - **Do not be annoying, loud, or use soundboards.**
 
@@ -267,8 +271,8 @@ Please be respectful of the bots and those listening by not playing obnoxious co
 
 Rule 7 - No Staff Disrespect or Punishment Evasion
 ------------
-.. important::
-    :ref:`Staff are doing their job when interacting with rule-violating Members. Please do not impede on their ability or insult them during this process.`
+
+Staff are doing their job when interacting with rule-violating Members. Please do not impede on their ability or insult them during this process.
 
 - **Do not disrespect Staff or impede on their moderation duties.**
 
@@ -288,7 +292,7 @@ Do not attempt to evade your mute, it will only make it permanent. We do not rem
 
 - **You may only have one account on the server.**
 
-Please do not join with an alternate account onto the server or use one to evade a punishment. 
+Do not join with an alternate account onto the server or use one to evade a punishment. 
 If you have a legitimate reason to join with another account, please contact Modmail immediately in order to get it approved.
 
 
@@ -304,8 +308,8 @@ Public channels are not the place for complaining about moderations you received
 
 Rule 8 - No Cheating, Glitching, or Exploiting
 ------------
-.. important::
-    :ref:`Please respect the games and those that play it. We do not appreciate cheating of any form.`
+
+Respect the games and those that play it. Our server is a strict no cheating environment and you will be punished for doing this.
 
 - **Includes asking for glitches, or discussion of any exploiting.**
 
@@ -327,24 +331,24 @@ Do not offer or sell cheats, hacks, or menus to others in public channels or thr
 
 Rule 9 - You must Follow Discord ToS and Guidelines
 ------------
-.. important::
-    :ref:`It is your responsibility to have read the Terms of Service when you signed up for the platform and to keep updated with it.`
 
-.. warning::
-    :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
+It is your responsibility to have read the Terms of Service when you signed up for the platform and to keep updated with it.
 
 - **No underage users (13+ only).**
 
 You must be 13 years of age or older to use the server.
 
+.. warning::
+    :ref:`Depending on the severity of your violation, you may be reported to Discord's Trust and Safety.`
+
 =====
 Channel Rules
 =====
 
-#lfg-<any channel>
+#lfg-*
 ------------
-.. important::
-    :ref:`Please use these to look for groups only.`
+
+Please use these to look for groups only.
 
 - **Please keep discussion to a bare minimum.**
 
@@ -360,29 +364,42 @@ Roblox Zombies and Left 4 Dead is not Call of Duty Zombies, please do not LFG fo
 .. important::
     :ref:`This channel is for discussing Call of Duty Zombies only.`
 
-- **Do not look for groups or games within this channel.**
+- **No looking for groups/games.**
 
-Please keep all LFGing to the \"Looking for Group\" category.
+Please keep all LFG in the \"Looking for Group\" category.
 
+- **Do not post irrelevant memes.**
 
-- **Do not concern troll or bait arguments.**
+Do not post random or low-effort memes into the channel, disrupting discussion.
 
-Please do not create artificial controversy by means of concern trolling.
+- **No trolling or baiting arguments with malicious intent.**
 
+Everyone's opinion is different. However, if you are taking a contrarian approach or making statements just to spark controversy or troll others, this will be punished.
 
-- **Do not derail conversations or go off-topic.**
+- **No derailing conversations or going off-topic repeatedly.**
 
-Similar to Rule 4, please respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
+Respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
 
+- **No derailing conversations or going off-topic repeatedly.**
 
-- **Do not abuse the topic or reroll command or use it when conversation is occuring.**
+Respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
 
-The !topic command is available when discussion is dissipating. Please be respectful of the discussions currently happening.
+- **No insulting or attacking other users personally.**
+
+Be respectful to others in all circumstances. If you are being insulted, please report to Modmail.
+
+- **Topic command rules**
+
+    • No abusing the !topic or !reroll command.
+
+    • Do not use the command when discussion is occurring.
+
+    • Reserve rerolls for duplicates as specified.
 
 #adv-zombies-discussion
 ------------
-.. important::
-    :ref:`This channel is for serious discussions about Zombies only.`
+
+This channel is for serious discussions about Zombies only. All of the zombies-discussion rules apply as well as the following one below.
 
 - **Please maintain a serious discussion at all times.**
 
@@ -390,18 +407,24 @@ On-topic and tasteful jokes may be used, but kept to a minimum please.
 
 #memes
 ------------
-.. important::
-    :ref:`Simply avoid posting anything that violates any of the global rules, or the channel specific rules below.`
 
-- **Do not post anything related to Nazism, Hitler, or any other extremist media. Includes overly political, propaganda, war footage, or similar content.**
+Avoid posting anything that violates any of the global rules, or the channel specific rules below.
+
+- **No age-restricted or suggestive content. (NSFW)**
+
+Do not post anything 18+ or borderline suggestive NSFW content.
+
+- **No nazism, Hitler, or any other extremist media.**
+
+Do not post anything glorifying the Nazi party or other dictators.
+
+- **No overly political, propaganda, war footage, etc. content.**
 
 We do not support or allow anything that resembles propaganda or posts of extremist politics.
-
 
 - **Do not post content related to gore, death, abuse, violence, etc.**
 
 Seriously, do not do this.
-
 
 - **Promotion of illegal behavior such as illicit drugs, piracy, etc.**
 
@@ -409,8 +432,6 @@ Please do not glorify illicit drugs or violations of the law.
 
 #trivia
 ------------
-.. important::
-    :ref:`Play trivia against the bot in this channel.`
 
 - **Please do not cheat.**
 
