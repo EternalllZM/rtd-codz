@@ -164,7 +164,7 @@ JUN 13 - Server reaches 5000 members.
 
 - **July 2020** 
 
-JUL 07 - Colden becomes Moderator for Call of Duty Zombies.
+JUL 07 - Colden becomes Moderator for Call of Duty Zombies. *(Retired)*
 
 - **August 2020**
 
@@ -278,7 +278,7 @@ JUL 05 -
 
     • Plutonium becomes allowed in the server as long as a legal game copy is used.
 
-    • Saladina becomes Moderator in Call of Duty Zombies.
+    • Saladina becomes Moderator in Call of Duty Zombies. *(Retired)*
 
 JUL 09 - Salt becomes Moderator in Call of Duty Zombies.
 
@@ -406,3 +406,7 @@ JUN 21 - Northstar becomes Moderator in Call of Duty Zombies.
 
 
 JUN 26 - Maxerocks becomes Moderator in Call of Duty Zombies.
+
+- **July 2022**
+
+JUN 04 - Server reaches 40000 members.
