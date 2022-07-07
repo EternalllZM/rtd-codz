@@ -15,6 +15,7 @@ Server Content
 
 .. toctree::
 
+   activity_ranks
    meme_database
    server_history
    privacy_policy
