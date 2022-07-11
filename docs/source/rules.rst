@@ -339,10 +339,6 @@ Everyone's opinion is different. However, if you are taking a contrarian approac
 
 Respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
 
-- **No derailing conversations or going off-topic repeatedly.**
-
-Respect the discussions being held and do not try to force conversations in an off-topic or unrelated direction.
-
 - **No insulting or attacking other users personally.**
 
 Be respectful to others in all circumstances. If you are being insulted, please report to Modmail.
