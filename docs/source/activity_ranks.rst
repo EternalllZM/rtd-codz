@@ -2,7 +2,7 @@
 Activity Ranks
 ==============
 
-Activity ranks are gained via use of the text channels by means of discussion, or using the voice channels within our server. Each 
+Activity ranks are gained via use of the text channels by means of discussion, or using the voice channels within our server.
 
 .. note::
     :ref:`Exact XP values will never be disclosed to the public in order to prevent abuse or "gaming" the system.`
