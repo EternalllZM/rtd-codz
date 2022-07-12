@@ -2,24 +2,34 @@
 Activity Ranks
 ==============
 
+Activity ranks are gained via use of the text channels by means of discussion, or using the voice channels within our server. Each 
+
+.. note::
+    :ref:`Exact XP values will never be disclosed to the public in order to prevent abuse or "gaming" the system.`
+
 .. warning::
-    :ref:`Abuse of the XP system is monitored. If you are caught abusing the system you may be reset or deranked to a pre-abuse state.`
+    :ref:`Abuse of the XP system is monitored. If you are caught abusing the system you may be deranked to a pre-abuse state or reset entirely.`
 
 Prestige
 -----------------
 
 - **Prestige Master**
 
+    • TBD
 
 - **Prestige 3**
 
+    • TBD
 
 - **Prestige 2**
 
+    • TBD
 
 - **Prestige 1**
 
-25-50
+    • TBD
+
+Activity Ranks 25-50
 -----------------
 
 50. **Master Zombie Slayer**
@@ -45,7 +55,7 @@ Prestige
 
     • Permanent access to Basic (booster) roles panel
 
-01-25
+Activity Ranks 01-25
 -----------------
 
 20. **Teleporter Linker**
