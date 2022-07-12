@@ -272,12 +272,15 @@ Any malicious cheating, glitching, or exploit discussion on the server is strict
 
 .. note::
     :ref:`If it is discussion related and not malciously attempting to inform or distribute, it may be allowed (at Moderator discretion). 
-    For example, you may discuss the Jet Gun knifing glitch or how to remove George Romero's lightning shock as legitimate strategies. 
+    For example, you may discuss the Jet Gun knifing "glitch" or how to remove George Romero's lightning shock as they have been deemed legitimate strategies. 
     You may not discuss how to godmode, unlock all, noclip into out of map areas, etc.`
 
 - **Includes in-game exploits that provide multiplayer advantages.**
 
-In-game glitches or exploits that provide \"mod-menu like\" features such as godmode or noclip are prohibited.
+In-game glitches or exploits that provide \"mod-menu like\" features such as godmode or noclip are prohibited. 
+
+.. note::
+    :ref:`This includes "infinite liquid divinium mods" and asking, discussing, hinting at them in any way.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
