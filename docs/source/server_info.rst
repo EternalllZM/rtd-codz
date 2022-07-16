@@ -11,16 +11,17 @@ Applying for Staff
 So you want to apply for Staff. It's good that you got this far, because you will be required to read and understand the mechanics of the server in-depth. 
 The Moderator position is not one of ease and will require critical thinking, reading, and listening skills. In order to apply, you must meet the following requirements: 
 
-    • Minimum 18+ years of age and fluent in English.\n
-    • Must work well within a team and remain composed during conflict.\n
-    • Understand the rules in-depth.\n
-    • Frequent activity within the server both text and voice as well as being a member for at least a month.\n
-    • Must have none or minimal warnings within the server, may not be previously banned.\n
-    • Know the server well enough to direct users to proper resources. (ex. How do I add roles?)\n
-    • Must have 2FA (two-factor authentication) enabled on your account.\n
-    • Must be an active listener and can take criticism well.\n
-    • Must have a good reputation with the rest of the staff team.\n
-    • Must have a working, good quality microphone.\n
+    • Minimum 18+ years of age and fluent in English.
+    • Must work well within a team and remain composed during conflict.
+    • Understand the rules in-depth.
+    • Frequent activity within the server both text and voice.
+    • Must be a member for at least a month.
+    • Must have none or minimal warnings within the server, may not be previously banned.
+    • Know the server well enough to direct users to proper resources. (ex. How do I add roles?)
+    • Must have 2FA (two-factor authentication) enabled on your account.
+    • Must be an active listener and can take criticism well.
+    • Must have a good reputation with the rest of the staff team.
+    • Must have a working, good quality microphone.
 
 .. important::
     :ref:`As you will be moderating (and potentially eventually managing) at multi-ten thousand community, your account must be secured and in great standing. 
