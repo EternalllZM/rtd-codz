@@ -71,9 +71,10 @@ Activity Ranks 01-25
 
     • External sticker usage in allowed channels
 
-    • !reroll command access in #zombies-discussion (when appropriate)
 
 05. **Mystery Box Hitter**
+
+    • Nickname permissions
 
     • External emote usage in allowed channels
 
