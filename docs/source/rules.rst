@@ -280,7 +280,10 @@ Any malicious cheating, glitching, or exploit discussion on the server is strict
 In-game glitches or exploits that provide \"mod-menu like\" features such as godmode or noclip are prohibited. 
 
 .. note::
-    :ref:`This includes "infinite liquid divinium mods" and asking, discussing, hinting at them in any way.`
+    :ref:`This includes "infinite liquid divinium, gobblegum, etc." mods and asking, discussing, hinting at them in any way.`
+
+.. important::
+    :ref:`Affiliation with cheating servers are also prohibited as it shows clear intent to eventually or already having used a cheat program.`
 
 - **Selling or offering mod menus is an immediate permanent ban.**
 
