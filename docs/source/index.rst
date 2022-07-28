@@ -1,7 +1,11 @@
 Call of Duty Zombies Discord Documentation
 ===================================
 
-This page serves as an index for documentation related to our Discord.
+Documentation related to the `Call of Duty Zombies Discord`_.
+
+From this index page, you may select a page based on what you are looking for.
+
+.. _`Call of Duty Zombies Discord`:https://discord.gg/codzombies
 
 Server Rules
 --------
