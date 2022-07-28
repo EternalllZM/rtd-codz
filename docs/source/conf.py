@@ -29,6 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
+html_style = 'css/py.css'
 html_theme = 'basic'
 #html_theme = 'sphinx_rtd_theme'
 
