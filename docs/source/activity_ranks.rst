@@ -8,7 +8,7 @@ Activity ranks are gained via use of the text channels by means of discussion, o
     :ref:`Exact XP values will never be disclosed to the public in order to prevent abuse or "gaming" the system.`
 
 .. warning::
-    :ref:`Abuse of the XP system is monitored. If you are caught abusing the system you may be deranked to a pre-abuse state or reset entirely.`
+    :ref:`Abuse of the XP system is monitored. Those caught abusing the system may be deranked or reset.`
 
 Prestige
 -----------------
