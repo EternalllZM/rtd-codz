@@ -4,43 +4,6 @@ Server Info
 
 Various information related to the server, more in-depth.
 
-Staff List
------------------
-
-Administrators
-
-**Eternalll** - *since 2017*
-
-**On My Mind** - *since 2020*
-
-**Ashryman** - *since 2021*
-
-Community Managers
-
-**Trimp** - *since 2020*
-
-**Devour** - *since 2021*
-
-**Oonaugh** - *since 2021*
-
-Senior Moderators
-
-**Dr. Salt** - *since 2021*
-
-**Fenryr** - *since 2022*
-
-Moderators
-
-**Chucky** - *since 2021*
-
-**Zenith** - *since 2022*
-
-**Maxerocks** - *since 2022*
-
-**Northstar** - *since 2022*
-
-**Nick** - *since 2022*
-
 Applying for Staff
 -----------------
 
